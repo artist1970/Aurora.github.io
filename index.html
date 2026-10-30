@@ -343,11 +343,26 @@ footer{
     <a class="link" href="https://vervenveda.com/">Verve N Veda</a>
   </div>
 </section>
+<section class="content" id="aurora-chat" aria-labelledby="aurora-chat-heading">
+  <h2 id="aurora-chat-heading">Talk with Aurora</h2>
+  <p class="copy">A quiet, local conversation for grounding, reflection, and rest. General wellness guidance only; no messages are uploaded or saved.</p>
+  <div class="card" style="max-width:800px;margin:20px auto;text-align:left">
+    <label for="aurora-message" style="display:block;margin-bottom:9px;color:var(--aqua)">What would feel helpful right now?</label>
+    <textarea id="aurora-message" rows="3" maxlength="900" style="display:block;width:100%;padding:14px;border:1px solid var(--line-strong);border-radius:9px;background:var(--night);color:var(--ink);font:inherit;resize:vertical" placeholder="A grounding prompt, a quiet reflection, or rest preparation…"></textarea>
+    <button id="aurora-ask" type="button" style="margin-top:12px;padding:11px 18px;border:1px solid var(--gold);border-radius:7px;background:var(--panel);color:var(--ink);cursor:pointer">Ask Aurora</button>
+    <button id="aurora-clear" type="button" style="margin:12px 0 0 8px;padding:11px 18px;border:1px solid var(--line);border-radius:7px;background:transparent;color:var(--ink);cursor:pointer">Clear</button>
+    <div id="aurora-answer" role="status" aria-live="polite" style="margin-top:18px;padding:14px;border:1px solid var(--line);border-radius:7px">Welcome. Choose your own pace. You can stop or skip any suggestion.</div>
+  </div>
+</section>
 </main>
 
 <footer>
   Aurora · Restorative Wellness · Verve N Veda
 </footer>
 </div>
+<script src="aurora-conversation-v1.js"></script>
+<script>
+(function(){const input=document.getElementById("aurora-message"),output=document.getElementById("aurora-answer");document.getElementById("aurora-ask").addEventListener("click",function(){output.textContent=window.AuroraConversation?.respond(input.value)||"Aurora is temporarily unavailable. Please try again.";});document.getElementById("aurora-clear").addEventListener("click",function(){input.value="";output.textContent="A fresh beginning. You can choose your own pace.";input.focus();});})();
+</script>
 </body>
 </html>
