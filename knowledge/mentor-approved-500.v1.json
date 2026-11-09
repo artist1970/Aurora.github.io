@@ -1,0 +1,3509 @@
+{
+  "schema": "vnv-public-mentor-qa-v1",
+  "mentorId": "aurora",
+  "version": "2026-11-09-founder-approved",
+  "source": "artist1970/creative-spark.github.io review/mentor-personality-qa-banks-2026-11-09",
+  "sourceStatus": "founder-approved-source-review",
+  "records": [
+    {
+      "id": "aurora-001",
+      "topic": "Welcome",
+      "question": "What can Aurora help with?",
+      "answer": "I offer gentle breathing, grounding, quiet reflection, and rest preparation. You can stop or skip any practice.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-002",
+      "topic": "Breathing",
+      "question": "Can we try gentle breathing?",
+      "answer": "If comfortable, breathe naturally and notice one easy inhale and exhale. There is no need to hold your breath or force a rhythm.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-003",
+      "topic": "Grounding",
+      "question": "How can I feel more grounded?",
+      "answer": "If it feels comfortable, notice your feet on the floor and name three things you can see around you. You may stop whenever you wish.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-004",
+      "topic": "Reflection",
+      "question": "Can you give me a reflection prompt?",
+      "answer": "What is one small thing that would make this moment feel a little gentler? There is no required answer.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-005",
+      "topic": "Rest",
+      "question": "How can I prepare for rest?",
+      "answer": "You might lower unnecessary stimulation, choose a comfortable position, and allow a quiet transition without demanding sleep.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-006",
+      "topic": "Meditation",
+      "question": "I am new to meditation.",
+      "answer": "Try noticing one sound in your surroundings for a few moments. Wandering attention is ordinary; you can return gently.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-007",
+      "topic": "Choice",
+      "question": "What if an exercise is uncomfortable?",
+      "answer": "Stop or change it. You are free to choose another approach, and you do not need to explain why.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-008",
+      "topic": "Affirmation",
+      "question": "Can you suggest an affirmation?",
+      "answer": "You might try: I can approach this moment with patience. Keep only the words that feel true and useful to you.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-009",
+      "topic": "Journaling",
+      "question": "What can I write in a journal?",
+      "answer": "Try finishing: Today I noticed… You can write one sentence, draw something, or leave the page blank.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-010",
+      "topic": "Focus",
+      "question": "Can you help me settle before studying?",
+      "answer": "You could clear one small space, notice your surroundings, and choose a single task. Archaemenes supports academic guidance.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-011",
+      "topic": "Nature",
+      "question": "How can nature support reflection?",
+      "answer": "You might notice natural light, a tree, or the feeling of fresh air if your surroundings make that safe and accessible.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-012",
+      "topic": "Boundaries",
+      "question": "Can Aurora diagnose a health condition?",
+      "answer": "No. I offer general wellness education and reflection, not diagnosis or treatment. A qualified clinician can address medical concerns.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-013",
+      "topic": "Handoff",
+      "question": "Who can help with writing?",
+      "answer": "Eiren is the literary mentor for poetry, writing, and creative reflection.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-014",
+      "topic": "Handoff",
+      "question": "Who can help with community resources?",
+      "answer": "Hope supports compassionate practical navigation and community-resource planning.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-015",
+      "topic": "Handoff",
+      "question": "Who can help with art?",
+      "answer": "Zelle is the visual arts mentor and Bazaar Art guide.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-016",
+      "topic": "Handoff",
+      "question": "Who can help with music?",
+      "answer": "Moirai supports music and The Refrain.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-017",
+      "topic": "Handoff",
+      "question": "Who helps with academic learning?",
+      "answer": "Archaemenes is the Academy Principal and academic mentor.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-018",
+      "topic": "Privacy",
+      "question": "Do I need to share personal details?",
+      "answer": "No. You can use Aurora's public guidance without sharing identifying details, private records, or sensitive information.",
+      "status": "approved"
+    },
+    {
+      "id": "aurora-editorial-20261109-001",
+      "topic": "breath-awareness",
+      "question": "What does breath awareness involve?",
+      "answer": "Breath awareness notices natural breathing without requiring a pattern. For instance, feeling the chest rise while seated.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-002",
+      "topic": "breath-awareness",
+      "question": "Why is breath awareness worth learning?",
+      "answer": "Breath awareness notices natural breathing without requiring a pattern. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-003",
+      "topic": "breath-awareness",
+      "question": "Can you describe breath awareness with an example?",
+      "answer": "Consider this example: feeling the chest rise while seated. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-004",
+      "topic": "breath-awareness",
+      "question": "How can a beginner begin breath awareness?",
+      "answer": "Start small: Notice three comfortable breaths without holding them. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-005",
+      "topic": "breath-awareness",
+      "question": "What is a common mistake with breath awareness?",
+      "answer": "Do not force deep breathing if it feels unpleasant. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-006",
+      "topic": "breath-awareness",
+      "question": "How would you explain breath awareness to a young learner?",
+      "answer": "Use the concrete example feeling the chest rise while seated and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-007",
+      "topic": "breath-awareness",
+      "question": "What brief activity helps me understand breath awareness?",
+      "answer": "Try this brief activity: Notice three comfortable breaths without holding them. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-008",
+      "topic": "breath-awareness",
+      "question": "How can I check my understanding of breath awareness?",
+      "answer": "Explain the central idea in your own words: breath awareness notices natural breathing without requiring a pattern. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-009",
+      "topic": "breath-awareness",
+      "question": "When might breath awareness help in daily life?",
+      "answer": "A useful everyday connection is feeling the chest rise while seated. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-010",
+      "topic": "breath-awareness",
+      "question": "What should I notice first about breath awareness?",
+      "answer": "Notice the key distinction: Breath awareness notices natural breathing without requiring a pattern. The example feeling the chest rise while seated makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-011",
+      "topic": "breath-awareness",
+      "question": "How can I explore breath awareness safely on my own?",
+      "answer": "Begin with notice three comfortable breaths without holding them. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-012",
+      "topic": "breath-awareness",
+      "question": "What important question should I ask about breath awareness?",
+      "answer": "Ask which assumptions matter in feeling the chest rise while seated. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-013",
+      "topic": "breath-awareness",
+      "question": "What other skill connects to breath awareness?",
+      "answer": "Connect breath awareness with planning, observation and clear communication. For a practical bridge, consider feeling the chest rise while seated.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-014",
+      "topic": "breath-awareness",
+      "question": "How can two people practice breath awareness together?",
+      "answer": "One person can explain feeling the chest rise while seated; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-015",
+      "topic": "breath-awareness",
+      "question": "What basic materials help with breath awareness?",
+      "answer": "A notebook and a comfortable place to try notice three comfortable breaths without holding them are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-016",
+      "topic": "breath-awareness",
+      "question": "How can I deepen my practice of breath awareness?",
+      "answer": "Extend the activity by adjusting one detail of feeling the chest rise while seated, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-017",
+      "topic": "breath-awareness",
+      "question": "What if breath awareness feels frustrating or difficult?",
+      "answer": "Make the task smaller: Notice three comfortable breaths without holding them. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-018",
+      "topic": "breath-awareness",
+      "question": "What evidence shows improvement in breath awareness?",
+      "answer": "Track what you did, how feeling the chest rise while seated applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-019",
+      "topic": "breath-awareness",
+      "question": "What claim should I avoid making about breath awareness?",
+      "answer": "Do not force deep breathing if it feels unpleasant. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-020",
+      "topic": "breath-awareness",
+      "question": "How can I reflect on learning breath awareness?",
+      "answer": "Write down the starting example feeling the chest rise while seated, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-021",
+      "topic": "mindful-listening",
+      "question": "What does mindful listening involve?",
+      "answer": "Mindful listening attends to sound without judgment. For instance, noticing rain and distant footsteps.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-022",
+      "topic": "mindful-listening",
+      "question": "Why is mindful listening worth learning?",
+      "answer": "Mindful listening attends to sound without judgment. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-023",
+      "topic": "mindful-listening",
+      "question": "Can you describe mindful listening with an example?",
+      "answer": "Consider this example: noticing rain and distant footsteps. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-024",
+      "topic": "mindful-listening",
+      "question": "How can a beginner begin mindful listening?",
+      "answer": "Start small: Identify three sounds in your environment. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-025",
+      "topic": "mindful-listening",
+      "question": "What is a common mistake with mindful listening?",
+      "answer": "Avoid promising immediate calm. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-026",
+      "topic": "mindful-listening",
+      "question": "How would you explain mindful listening to a young learner?",
+      "answer": "Use the concrete example noticing rain and distant footsteps and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-027",
+      "topic": "mindful-listening",
+      "question": "What brief activity helps me understand mindful listening?",
+      "answer": "Try this brief activity: Identify three sounds in your environment. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-028",
+      "topic": "mindful-listening",
+      "question": "How can I check my understanding of mindful listening?",
+      "answer": "Explain the central idea in your own words: mindful listening attends to sound without judgment. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-029",
+      "topic": "mindful-listening",
+      "question": "When might mindful listening help in daily life?",
+      "answer": "A useful everyday connection is noticing rain and distant footsteps. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-030",
+      "topic": "mindful-listening",
+      "question": "What should I notice first about mindful listening?",
+      "answer": "Notice the key distinction: Mindful listening attends to sound without judgment. The example noticing rain and distant footsteps makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-031",
+      "topic": "mindful-listening",
+      "question": "How can I explore mindful listening safely on my own?",
+      "answer": "Begin with identify three sounds in your environment. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-032",
+      "topic": "mindful-listening",
+      "question": "What important question should I ask about mindful listening?",
+      "answer": "Ask which assumptions matter in noticing rain and distant footsteps. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-033",
+      "topic": "mindful-listening",
+      "question": "What other skill connects to mindful listening?",
+      "answer": "Connect mindful listening with planning, observation and clear communication. For a practical bridge, consider noticing rain and distant footsteps.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-034",
+      "topic": "mindful-listening",
+      "question": "How can two people practice mindful listening together?",
+      "answer": "One person can explain noticing rain and distant footsteps; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-035",
+      "topic": "mindful-listening",
+      "question": "What basic materials help with mindful listening?",
+      "answer": "A notebook and a comfortable place to try identify three sounds in your environment are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-036",
+      "topic": "mindful-listening",
+      "question": "How can I deepen my practice of mindful listening?",
+      "answer": "Extend the activity by adjusting one detail of noticing rain and distant footsteps, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-037",
+      "topic": "mindful-listening",
+      "question": "What if mindful listening feels frustrating or difficult?",
+      "answer": "Make the task smaller: Identify three sounds in your environment. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-038",
+      "topic": "mindful-listening",
+      "question": "What evidence shows improvement in mindful listening?",
+      "answer": "Track what you did, how noticing rain and distant footsteps applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-039",
+      "topic": "mindful-listening",
+      "question": "What claim should I avoid making about mindful listening?",
+      "answer": "Avoid promising immediate calm. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-040",
+      "topic": "mindful-listening",
+      "question": "How can I reflect on learning mindful listening?",
+      "answer": "Write down the starting example noticing rain and distant footsteps, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-041",
+      "topic": "grounding",
+      "question": "What does grounding involve?",
+      "answer": "Grounding can use senses to orient attention in the present. For instance, noticing feet on the floor.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-042",
+      "topic": "grounding",
+      "question": "Why is grounding worth learning?",
+      "answer": "Grounding can use senses to orient attention in the present. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-043",
+      "topic": "grounding",
+      "question": "Can you describe grounding with an example?",
+      "answer": "Consider this example: noticing feet on the floor. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-044",
+      "topic": "grounding",
+      "question": "How can a beginner begin grounding?",
+      "answer": "Start small: Name nearby colors and textures. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-045",
+      "topic": "grounding",
+      "question": "What is a common mistake with grounding?",
+      "answer": "Do not treat grounding as emergency medical treatment. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-046",
+      "topic": "grounding",
+      "question": "How would you explain grounding to a young learner?",
+      "answer": "Use the concrete example noticing feet on the floor and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-047",
+      "topic": "grounding",
+      "question": "What brief activity helps me understand grounding?",
+      "answer": "Try this brief activity: Name nearby colors and textures. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-048",
+      "topic": "grounding",
+      "question": "How can I check my understanding of grounding?",
+      "answer": "Explain the central idea in your own words: grounding can use senses to orient attention in the present. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-049",
+      "topic": "grounding",
+      "question": "When might grounding help in daily life?",
+      "answer": "A useful everyday connection is noticing feet on the floor. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-050",
+      "topic": "grounding",
+      "question": "What should I notice first about grounding?",
+      "answer": "Notice the key distinction: Grounding can use senses to orient attention in the present. The example noticing feet on the floor makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-051",
+      "topic": "grounding",
+      "question": "How can I explore grounding safely on my own?",
+      "answer": "Begin with name nearby colors and textures. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-052",
+      "topic": "grounding",
+      "question": "What important question should I ask about grounding?",
+      "answer": "Ask which assumptions matter in noticing feet on the floor. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-053",
+      "topic": "grounding",
+      "question": "What other skill connects to grounding?",
+      "answer": "Connect grounding with planning, observation and clear communication. For a practical bridge, consider noticing feet on the floor.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-054",
+      "topic": "grounding",
+      "question": "How can two people practice grounding together?",
+      "answer": "One person can explain noticing feet on the floor; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-055",
+      "topic": "grounding",
+      "question": "What basic materials help with grounding?",
+      "answer": "A notebook and a comfortable place to try name nearby colors and textures are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-056",
+      "topic": "grounding",
+      "question": "How can I deepen my practice of grounding?",
+      "answer": "Extend the activity by adjusting one detail of noticing feet on the floor, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-057",
+      "topic": "grounding",
+      "question": "What if grounding feels frustrating or difficult?",
+      "answer": "Make the task smaller: Name nearby colors and textures. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-058",
+      "topic": "grounding",
+      "question": "What evidence shows improvement in grounding?",
+      "answer": "Track what you did, how noticing feet on the floor applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-059",
+      "topic": "grounding",
+      "question": "What claim should I avoid making about grounding?",
+      "answer": "Do not treat grounding as emergency medical treatment. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-060",
+      "topic": "grounding",
+      "question": "How can I reflect on learning grounding?",
+      "answer": "Write down the starting example noticing feet on the floor, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-061",
+      "topic": "mountain-pose",
+      "question": "What does mountain pose involve?",
+      "answer": "Mountain pose is a gentle standing alignment practice. For instance, standing with balanced weight and relaxed shoulders.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-062",
+      "topic": "mountain-pose",
+      "question": "Why is mountain pose worth learning?",
+      "answer": "Mountain pose is a gentle standing alignment practice. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-063",
+      "topic": "mountain-pose",
+      "question": "Can you describe mountain pose with an example?",
+      "answer": "Consider this example: standing with balanced weight and relaxed shoulders. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-064",
+      "topic": "mountain-pose",
+      "question": "How can a beginner begin mountain pose?",
+      "answer": "Start small: Stand comfortably near a stable support. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-065",
+      "topic": "mountain-pose",
+      "question": "What is a common mistake with mountain pose?",
+      "answer": "Avoid locking knees or forcing posture. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-066",
+      "topic": "mountain-pose",
+      "question": "How would you explain mountain pose to a young learner?",
+      "answer": "Use the concrete example standing with balanced weight and relaxed shoulders and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-067",
+      "topic": "mountain-pose",
+      "question": "What brief activity helps me understand mountain pose?",
+      "answer": "Try this brief activity: Stand comfortably near a stable support. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-068",
+      "topic": "mountain-pose",
+      "question": "How can I check my understanding of mountain pose?",
+      "answer": "Explain the central idea in your own words: mountain pose is a gentle standing alignment practice. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-069",
+      "topic": "mountain-pose",
+      "question": "When might mountain pose help in daily life?",
+      "answer": "A useful everyday connection is standing with balanced weight and relaxed shoulders. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-070",
+      "topic": "mountain-pose",
+      "question": "What should I notice first about mountain pose?",
+      "answer": "Notice the key distinction: Mountain pose is a gentle standing alignment practice. The example standing with balanced weight and relaxed shoulders makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-071",
+      "topic": "mountain-pose",
+      "question": "How can I explore mountain pose safely on my own?",
+      "answer": "Begin with stand comfortably near a stable support. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-072",
+      "topic": "mountain-pose",
+      "question": "What important question should I ask about mountain pose?",
+      "answer": "Ask which assumptions matter in standing with balanced weight and relaxed shoulders. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-073",
+      "topic": "mountain-pose",
+      "question": "What other skill connects to mountain pose?",
+      "answer": "Connect mountain pose with planning, observation and clear communication. For a practical bridge, consider standing with balanced weight and relaxed shoulders.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-074",
+      "topic": "mountain-pose",
+      "question": "How can two people practice mountain pose together?",
+      "answer": "One person can explain standing with balanced weight and relaxed shoulders; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-075",
+      "topic": "mountain-pose",
+      "question": "What basic materials help with mountain pose?",
+      "answer": "A notebook and a comfortable place to try stand comfortably near a stable support are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-076",
+      "topic": "mountain-pose",
+      "question": "How can I deepen my practice of mountain pose?",
+      "answer": "Extend the activity by adjusting one detail of standing with balanced weight and relaxed shoulders, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-077",
+      "topic": "mountain-pose",
+      "question": "What if mountain pose feels frustrating or difficult?",
+      "answer": "Make the task smaller: Stand comfortably near a stable support. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-078",
+      "topic": "mountain-pose",
+      "question": "What evidence shows improvement in mountain pose?",
+      "answer": "Track what you did, how standing with balanced weight and relaxed shoulders applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-079",
+      "topic": "mountain-pose",
+      "question": "What claim should I avoid making about mountain pose?",
+      "answer": "Avoid locking knees or forcing posture. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-080",
+      "topic": "mountain-pose",
+      "question": "How can I reflect on learning mountain pose?",
+      "answer": "Write down the starting example standing with balanced weight and relaxed shoulders, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-081",
+      "topic": "chair-yoga",
+      "question": "What does chair yoga involve?",
+      "answer": "Chair yoga adapts movement to seated positions. For instance, gentle shoulder rolls from a sturdy chair.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-082",
+      "topic": "chair-yoga",
+      "question": "Why is chair yoga worth learning?",
+      "answer": "Chair yoga adapts movement to seated positions. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-083",
+      "topic": "chair-yoga",
+      "question": "Can you describe chair yoga with an example?",
+      "answer": "Consider this example: gentle shoulder rolls from a sturdy chair. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-084",
+      "topic": "chair-yoga",
+      "question": "How can a beginner begin chair yoga?",
+      "answer": "Start small: Try a small comfortable seated reach. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-085",
+      "topic": "chair-yoga",
+      "question": "What is a common mistake with chair yoga?",
+      "answer": "Use a stable chair and skip painful motions. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-086",
+      "topic": "chair-yoga",
+      "question": "How would you explain chair yoga to a young learner?",
+      "answer": "Use the concrete example gentle shoulder rolls from a sturdy chair and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-087",
+      "topic": "chair-yoga",
+      "question": "What brief activity helps me understand chair yoga?",
+      "answer": "Try this brief activity: Try a small comfortable seated reach. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-088",
+      "topic": "chair-yoga",
+      "question": "How can I check my understanding of chair yoga?",
+      "answer": "Explain the central idea in your own words: chair yoga adapts movement to seated positions. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-089",
+      "topic": "chair-yoga",
+      "question": "When might chair yoga help in daily life?",
+      "answer": "A useful everyday connection is gentle shoulder rolls from a sturdy chair. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-090",
+      "topic": "chair-yoga",
+      "question": "What should I notice first about chair yoga?",
+      "answer": "Notice the key distinction: Chair yoga adapts movement to seated positions. The example gentle shoulder rolls from a sturdy chair makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-091",
+      "topic": "chair-yoga",
+      "question": "How can I explore chair yoga safely on my own?",
+      "answer": "Begin with try a small comfortable seated reach. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-092",
+      "topic": "chair-yoga",
+      "question": "What important question should I ask about chair yoga?",
+      "answer": "Ask which assumptions matter in gentle shoulder rolls from a sturdy chair. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-093",
+      "topic": "chair-yoga",
+      "question": "What other skill connects to chair yoga?",
+      "answer": "Connect chair yoga with planning, observation and clear communication. For a practical bridge, consider gentle shoulder rolls from a sturdy chair.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-094",
+      "topic": "chair-yoga",
+      "question": "How can two people practice chair yoga together?",
+      "answer": "One person can explain gentle shoulder rolls from a sturdy chair; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-095",
+      "topic": "chair-yoga",
+      "question": "What basic materials help with chair yoga?",
+      "answer": "A notebook and a comfortable place to try try a small comfortable seated reach are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-096",
+      "topic": "chair-yoga",
+      "question": "How can I deepen my practice of chair yoga?",
+      "answer": "Extend the activity by adjusting one detail of gentle shoulder rolls from a sturdy chair, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-097",
+      "topic": "chair-yoga",
+      "question": "What if chair yoga feels frustrating or difficult?",
+      "answer": "Make the task smaller: Try a small comfortable seated reach. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-098",
+      "topic": "chair-yoga",
+      "question": "What evidence shows improvement in chair yoga?",
+      "answer": "Track what you did, how gentle shoulder rolls from a sturdy chair applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-099",
+      "topic": "chair-yoga",
+      "question": "What claim should I avoid making about chair yoga?",
+      "answer": "Use a stable chair and skip painful motions. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-100",
+      "topic": "chair-yoga",
+      "question": "How can I reflect on learning chair yoga?",
+      "answer": "Write down the starting example gentle shoulder rolls from a sturdy chair, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-101",
+      "topic": "child-s-pose-alternatives",
+      "question": "What does child's pose alternatives involve?",
+      "answer": "Resting poses can be adapted for body comfort. For instance, a seated forward rest instead of kneeling.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-102",
+      "topic": "child-s-pose-alternatives",
+      "question": "Why is child's pose alternatives worth learning?",
+      "answer": "Resting poses can be adapted for body comfort. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-103",
+      "topic": "child-s-pose-alternatives",
+      "question": "Can you describe child's pose alternatives with an example?",
+      "answer": "Consider this example: a seated forward rest instead of kneeling. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-104",
+      "topic": "child-s-pose-alternatives",
+      "question": "How can a beginner begin child's pose alternatives?",
+      "answer": "Start small: Choose a restful supported position. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-105",
+      "topic": "child-s-pose-alternatives",
+      "question": "What is a common mistake with child's pose alternatives?",
+      "answer": "Never require a pose that restricts breathing. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-106",
+      "topic": "child-s-pose-alternatives",
+      "question": "How would you explain child's pose alternatives to a young learner?",
+      "answer": "Use the concrete example a seated forward rest instead of kneeling and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-107",
+      "topic": "child-s-pose-alternatives",
+      "question": "What brief activity helps me understand child's pose alternatives?",
+      "answer": "Try this brief activity: Choose a restful supported position. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-108",
+      "topic": "child-s-pose-alternatives",
+      "question": "How can I check my understanding of child's pose alternatives?",
+      "answer": "Explain the central idea in your own words: resting poses can be adapted for body comfort. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-109",
+      "topic": "child-s-pose-alternatives",
+      "question": "When might child's pose alternatives help in daily life?",
+      "answer": "A useful everyday connection is a seated forward rest instead of kneeling. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-110",
+      "topic": "child-s-pose-alternatives",
+      "question": "What should I notice first about child's pose alternatives?",
+      "answer": "Notice the key distinction: Resting poses can be adapted for body comfort. The example a seated forward rest instead of kneeling makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-111",
+      "topic": "child-s-pose-alternatives",
+      "question": "How can I explore child's pose alternatives safely on my own?",
+      "answer": "Begin with choose a restful supported position. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-112",
+      "topic": "child-s-pose-alternatives",
+      "question": "What important question should I ask about child's pose alternatives?",
+      "answer": "Ask which assumptions matter in a seated forward rest instead of kneeling. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-113",
+      "topic": "child-s-pose-alternatives",
+      "question": "What other skill connects to child's pose alternatives?",
+      "answer": "Connect child's pose alternatives with planning, observation and clear communication. For a practical bridge, consider a seated forward rest instead of kneeling.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-114",
+      "topic": "child-s-pose-alternatives",
+      "question": "How can two people practice child's pose alternatives together?",
+      "answer": "One person can explain a seated forward rest instead of kneeling; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-115",
+      "topic": "child-s-pose-alternatives",
+      "question": "What basic materials help with child's pose alternatives?",
+      "answer": "A notebook and a comfortable place to try choose a restful supported position are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-116",
+      "topic": "child-s-pose-alternatives",
+      "question": "How can I deepen my practice of child's pose alternatives?",
+      "answer": "Extend the activity by adjusting one detail of a seated forward rest instead of kneeling, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-117",
+      "topic": "child-s-pose-alternatives",
+      "question": "What if child's pose alternatives feels frustrating or difficult?",
+      "answer": "Make the task smaller: Choose a restful supported position. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-118",
+      "topic": "child-s-pose-alternatives",
+      "question": "What evidence shows improvement in child's pose alternatives?",
+      "answer": "Track what you did, how a seated forward rest instead of kneeling applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-119",
+      "topic": "child-s-pose-alternatives",
+      "question": "What claim should I avoid making about child's pose alternatives?",
+      "answer": "Never require a pose that restricts breathing. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-120",
+      "topic": "child-s-pose-alternatives",
+      "question": "How can I reflect on learning child's pose alternatives?",
+      "answer": "Write down the starting example a seated forward rest instead of kneeling, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-121",
+      "topic": "cat-cow-movement",
+      "question": "What does cat cow movement involve?",
+      "answer": "Cat cow alternates gentle spinal flexion and extension. For instance, moving slowly from a tabletop or seated position.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-122",
+      "topic": "cat-cow-movement",
+      "question": "Why is cat cow movement worth learning?",
+      "answer": "Cat cow alternates gentle spinal flexion and extension. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-123",
+      "topic": "cat-cow-movement",
+      "question": "Can you describe cat cow movement with an example?",
+      "answer": "Consider this example: moving slowly from a tabletop or seated position. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-124",
+      "topic": "cat-cow-movement",
+      "question": "How can a beginner begin cat cow movement?",
+      "answer": "Start small: Make small pain-free movements coordinated with breath. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-125",
+      "topic": "cat-cow-movement",
+      "question": "What is a common mistake with cat cow movement?",
+      "answer": "Avoid pushing through back pain. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-126",
+      "topic": "cat-cow-movement",
+      "question": "How would you explain cat cow movement to a young learner?",
+      "answer": "Use the concrete example moving slowly from a tabletop or seated position and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-127",
+      "topic": "cat-cow-movement",
+      "question": "What brief activity helps me understand cat cow movement?",
+      "answer": "Try this brief activity: Make small pain-free movements coordinated with breath. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-128",
+      "topic": "cat-cow-movement",
+      "question": "How can I check my understanding of cat cow movement?",
+      "answer": "Explain the central idea in your own words: cat cow alternates gentle spinal flexion and extension. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-129",
+      "topic": "cat-cow-movement",
+      "question": "When might cat cow movement help in daily life?",
+      "answer": "A useful everyday connection is moving slowly from a tabletop or seated position. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-130",
+      "topic": "cat-cow-movement",
+      "question": "What should I notice first about cat cow movement?",
+      "answer": "Notice the key distinction: Cat cow alternates gentle spinal flexion and extension. The example moving slowly from a tabletop or seated position makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-131",
+      "topic": "cat-cow-movement",
+      "question": "How can I explore cat cow movement safely on my own?",
+      "answer": "Begin with make small pain-free movements coordinated with breath. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-132",
+      "topic": "cat-cow-movement",
+      "question": "What important question should I ask about cat cow movement?",
+      "answer": "Ask which assumptions matter in moving slowly from a tabletop or seated position. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-133",
+      "topic": "cat-cow-movement",
+      "question": "What other skill connects to cat cow movement?",
+      "answer": "Connect cat cow movement with planning, observation and clear communication. For a practical bridge, consider moving slowly from a tabletop or seated position.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-134",
+      "topic": "cat-cow-movement",
+      "question": "How can two people practice cat cow movement together?",
+      "answer": "One person can explain moving slowly from a tabletop or seated position; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-135",
+      "topic": "cat-cow-movement",
+      "question": "What basic materials help with cat cow movement?",
+      "answer": "A notebook and a comfortable place to try make small pain-free movements coordinated with breath are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-136",
+      "topic": "cat-cow-movement",
+      "question": "How can I deepen my practice of cat cow movement?",
+      "answer": "Extend the activity by adjusting one detail of moving slowly from a tabletop or seated position, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-137",
+      "topic": "cat-cow-movement",
+      "question": "What if cat cow movement feels frustrating or difficult?",
+      "answer": "Make the task smaller: Make small pain-free movements coordinated with breath. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-138",
+      "topic": "cat-cow-movement",
+      "question": "What evidence shows improvement in cat cow movement?",
+      "answer": "Track what you did, how moving slowly from a tabletop or seated position applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-139",
+      "topic": "cat-cow-movement",
+      "question": "What claim should I avoid making about cat cow movement?",
+      "answer": "Avoid pushing through back pain. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-140",
+      "topic": "cat-cow-movement",
+      "question": "How can I reflect on learning cat cow movement?",
+      "answer": "Write down the starting example moving slowly from a tabletop or seated position, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-141",
+      "topic": "gentle-balance",
+      "question": "What does gentle balance involve?",
+      "answer": "Balance develops through controlled safe weight shifts. For instance, standing by a wall and shifting weight.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-142",
+      "topic": "gentle-balance",
+      "question": "Why is gentle balance worth learning?",
+      "answer": "Balance develops through controlled safe weight shifts. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-143",
+      "topic": "gentle-balance",
+      "question": "Can you describe gentle balance with an example?",
+      "answer": "Consider this example: standing by a wall and shifting weight. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-144",
+      "topic": "gentle-balance",
+      "question": "How can a beginner begin gentle balance?",
+      "answer": "Start small: Practice with a stable surface nearby. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-145",
+      "topic": "gentle-balance",
+      "question": "What is a common mistake with gentle balance?",
+      "answer": "Do not close your eyes when balance is uncertain. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-146",
+      "topic": "gentle-balance",
+      "question": "How would you explain gentle balance to a young learner?",
+      "answer": "Use the concrete example standing by a wall and shifting weight and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-147",
+      "topic": "gentle-balance",
+      "question": "What brief activity helps me understand gentle balance?",
+      "answer": "Try this brief activity: Practice with a stable surface nearby. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-148",
+      "topic": "gentle-balance",
+      "question": "How can I check my understanding of gentle balance?",
+      "answer": "Explain the central idea in your own words: balance develops through controlled safe weight shifts. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-149",
+      "topic": "gentle-balance",
+      "question": "When might gentle balance help in daily life?",
+      "answer": "A useful everyday connection is standing by a wall and shifting weight. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-150",
+      "topic": "gentle-balance",
+      "question": "What should I notice first about gentle balance?",
+      "answer": "Notice the key distinction: Balance develops through controlled safe weight shifts. The example standing by a wall and shifting weight makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-151",
+      "topic": "gentle-balance",
+      "question": "How can I explore gentle balance safely on my own?",
+      "answer": "Begin with practice with a stable surface nearby. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-152",
+      "topic": "gentle-balance",
+      "question": "What important question should I ask about gentle balance?",
+      "answer": "Ask which assumptions matter in standing by a wall and shifting weight. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-153",
+      "topic": "gentle-balance",
+      "question": "What other skill connects to gentle balance?",
+      "answer": "Connect gentle balance with planning, observation and clear communication. For a practical bridge, consider standing by a wall and shifting weight.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-154",
+      "topic": "gentle-balance",
+      "question": "How can two people practice gentle balance together?",
+      "answer": "One person can explain standing by a wall and shifting weight; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-155",
+      "topic": "gentle-balance",
+      "question": "What basic materials help with gentle balance?",
+      "answer": "A notebook and a comfortable place to try practice with a stable surface nearby are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-156",
+      "topic": "gentle-balance",
+      "question": "How can I deepen my practice of gentle balance?",
+      "answer": "Extend the activity by adjusting one detail of standing by a wall and shifting weight, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-157",
+      "topic": "gentle-balance",
+      "question": "What if gentle balance feels frustrating or difficult?",
+      "answer": "Make the task smaller: Practice with a stable surface nearby. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-158",
+      "topic": "gentle-balance",
+      "question": "What evidence shows improvement in gentle balance?",
+      "answer": "Track what you did, how standing by a wall and shifting weight applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-159",
+      "topic": "gentle-balance",
+      "question": "What claim should I avoid making about gentle balance?",
+      "answer": "Do not close your eyes when balance is uncertain. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-160",
+      "topic": "gentle-balance",
+      "question": "How can I reflect on learning gentle balance?",
+      "answer": "Write down the starting example standing by a wall and shifting weight, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-161",
+      "topic": "warmup",
+      "question": "What does warmup involve?",
+      "answer": "Warmups prepare the body for movement gradually. For instance, easy marching before an activity.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-162",
+      "topic": "warmup",
+      "question": "Why is warmup worth learning?",
+      "answer": "Warmups prepare the body for movement gradually. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-163",
+      "topic": "warmup",
+      "question": "Can you describe warmup with an example?",
+      "answer": "Consider this example: easy marching before an activity. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-164",
+      "topic": "warmup",
+      "question": "How can a beginner begin warmup?",
+      "answer": "Start small: Begin with gentle joint movements. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-165",
+      "topic": "warmup",
+      "question": "What is a common mistake with warmup?",
+      "answer": "Avoid intense effort without preparation. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-166",
+      "topic": "warmup",
+      "question": "How would you explain warmup to a young learner?",
+      "answer": "Use the concrete example easy marching before an activity and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-167",
+      "topic": "warmup",
+      "question": "What brief activity helps me understand warmup?",
+      "answer": "Try this brief activity: Begin with gentle joint movements. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-168",
+      "topic": "warmup",
+      "question": "How can I check my understanding of warmup?",
+      "answer": "Explain the central idea in your own words: warmups prepare the body for movement gradually. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-169",
+      "topic": "warmup",
+      "question": "When might warmup help in daily life?",
+      "answer": "A useful everyday connection is easy marching before an activity. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-170",
+      "topic": "warmup",
+      "question": "What should I notice first about warmup?",
+      "answer": "Notice the key distinction: Warmups prepare the body for movement gradually. The example easy marching before an activity makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-171",
+      "topic": "warmup",
+      "question": "How can I explore warmup safely on my own?",
+      "answer": "Begin with begin with gentle joint movements. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-172",
+      "topic": "warmup",
+      "question": "What important question should I ask about warmup?",
+      "answer": "Ask which assumptions matter in easy marching before an activity. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-173",
+      "topic": "warmup",
+      "question": "What other skill connects to warmup?",
+      "answer": "Connect warmup with planning, observation and clear communication. For a practical bridge, consider easy marching before an activity.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-174",
+      "topic": "warmup",
+      "question": "How can two people practice warmup together?",
+      "answer": "One person can explain easy marching before an activity; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-175",
+      "topic": "warmup",
+      "question": "What basic materials help with warmup?",
+      "answer": "A notebook and a comfortable place to try begin with gentle joint movements are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-176",
+      "topic": "warmup",
+      "question": "How can I deepen my practice of warmup?",
+      "answer": "Extend the activity by adjusting one detail of easy marching before an activity, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-177",
+      "topic": "warmup",
+      "question": "What if warmup feels frustrating or difficult?",
+      "answer": "Make the task smaller: Begin with gentle joint movements. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-178",
+      "topic": "warmup",
+      "question": "What evidence shows improvement in warmup?",
+      "answer": "Track what you did, how easy marching before an activity applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-179",
+      "topic": "warmup",
+      "question": "What claim should I avoid making about warmup?",
+      "answer": "Avoid intense effort without preparation. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-180",
+      "topic": "warmup",
+      "question": "How can I reflect on learning warmup?",
+      "answer": "Write down the starting example easy marching before an activity, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-181",
+      "topic": "cooldown",
+      "question": "What does cooldown involve?",
+      "answer": "Cooldowns transition activity toward rest. For instance, slowing a walk after a game.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-182",
+      "topic": "cooldown",
+      "question": "Why is cooldown worth learning?",
+      "answer": "Cooldowns transition activity toward rest. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-183",
+      "topic": "cooldown",
+      "question": "Can you describe cooldown with an example?",
+      "answer": "Consider this example: slowing a walk after a game. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-184",
+      "topic": "cooldown",
+      "question": "How can a beginner begin cooldown?",
+      "answer": "Start small: Reduce pace and check your breathing. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-185",
+      "topic": "cooldown",
+      "question": "What is a common mistake with cooldown?",
+      "answer": "Avoid abrupt strenuous stretching. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-186",
+      "topic": "cooldown",
+      "question": "How would you explain cooldown to a young learner?",
+      "answer": "Use the concrete example slowing a walk after a game and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-187",
+      "topic": "cooldown",
+      "question": "What brief activity helps me understand cooldown?",
+      "answer": "Try this brief activity: Reduce pace and check your breathing. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-188",
+      "topic": "cooldown",
+      "question": "How can I check my understanding of cooldown?",
+      "answer": "Explain the central idea in your own words: cooldowns transition activity toward rest. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-189",
+      "topic": "cooldown",
+      "question": "When might cooldown help in daily life?",
+      "answer": "A useful everyday connection is slowing a walk after a game. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-190",
+      "topic": "cooldown",
+      "question": "What should I notice first about cooldown?",
+      "answer": "Notice the key distinction: Cooldowns transition activity toward rest. The example slowing a walk after a game makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-191",
+      "topic": "cooldown",
+      "question": "How can I explore cooldown safely on my own?",
+      "answer": "Begin with reduce pace and check your breathing. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-192",
+      "topic": "cooldown",
+      "question": "What important question should I ask about cooldown?",
+      "answer": "Ask which assumptions matter in slowing a walk after a game. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-193",
+      "topic": "cooldown",
+      "question": "What other skill connects to cooldown?",
+      "answer": "Connect cooldown with planning, observation and clear communication. For a practical bridge, consider slowing a walk after a game.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-194",
+      "topic": "cooldown",
+      "question": "How can two people practice cooldown together?",
+      "answer": "One person can explain slowing a walk after a game; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-195",
+      "topic": "cooldown",
+      "question": "What basic materials help with cooldown?",
+      "answer": "A notebook and a comfortable place to try reduce pace and check your breathing are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-196",
+      "topic": "cooldown",
+      "question": "How can I deepen my practice of cooldown?",
+      "answer": "Extend the activity by adjusting one detail of slowing a walk after a game, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-197",
+      "topic": "cooldown",
+      "question": "What if cooldown feels frustrating or difficult?",
+      "answer": "Make the task smaller: Reduce pace and check your breathing. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-198",
+      "topic": "cooldown",
+      "question": "What evidence shows improvement in cooldown?",
+      "answer": "Track what you did, how slowing a walk after a game applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-199",
+      "topic": "cooldown",
+      "question": "What claim should I avoid making about cooldown?",
+      "answer": "Avoid abrupt strenuous stretching. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-200",
+      "topic": "cooldown",
+      "question": "How can I reflect on learning cooldown?",
+      "answer": "Write down the starting example slowing a walk after a game, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-201",
+      "topic": "body-awareness",
+      "question": "What does body awareness involve?",
+      "answer": "Body awareness notices comfort tension and energy. For instance, recognizing tired shoulders after studying.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-202",
+      "topic": "body-awareness",
+      "question": "Why is body awareness worth learning?",
+      "answer": "Body awareness notices comfort tension and energy. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-203",
+      "topic": "body-awareness",
+      "question": "Can you describe body awareness with an example?",
+      "answer": "Consider this example: recognizing tired shoulders after studying. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-204",
+      "topic": "body-awareness",
+      "question": "How can a beginner begin body awareness?",
+      "answer": "Start small: Pause and identify one comfortable adjustment. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-205",
+      "topic": "body-awareness",
+      "question": "What is a common mistake with body awareness?",
+      "answer": "Do not label normal sensations as diagnoses. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-206",
+      "topic": "body-awareness",
+      "question": "How would you explain body awareness to a young learner?",
+      "answer": "Use the concrete example recognizing tired shoulders after studying and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-207",
+      "topic": "body-awareness",
+      "question": "What brief activity helps me understand body awareness?",
+      "answer": "Try this brief activity: Pause and identify one comfortable adjustment. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-208",
+      "topic": "body-awareness",
+      "question": "How can I check my understanding of body awareness?",
+      "answer": "Explain the central idea in your own words: body awareness notices comfort tension and energy. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-209",
+      "topic": "body-awareness",
+      "question": "When might body awareness help in daily life?",
+      "answer": "A useful everyday connection is recognizing tired shoulders after studying. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-210",
+      "topic": "body-awareness",
+      "question": "What should I notice first about body awareness?",
+      "answer": "Notice the key distinction: Body awareness notices comfort tension and energy. The example recognizing tired shoulders after studying makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-211",
+      "topic": "body-awareness",
+      "question": "How can I explore body awareness safely on my own?",
+      "answer": "Begin with pause and identify one comfortable adjustment. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-212",
+      "topic": "body-awareness",
+      "question": "What important question should I ask about body awareness?",
+      "answer": "Ask which assumptions matter in recognizing tired shoulders after studying. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-213",
+      "topic": "body-awareness",
+      "question": "What other skill connects to body awareness?",
+      "answer": "Connect body awareness with planning, observation and clear communication. For a practical bridge, consider recognizing tired shoulders after studying.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-214",
+      "topic": "body-awareness",
+      "question": "How can two people practice body awareness together?",
+      "answer": "One person can explain recognizing tired shoulders after studying; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-215",
+      "topic": "body-awareness",
+      "question": "What basic materials help with body awareness?",
+      "answer": "A notebook and a comfortable place to try pause and identify one comfortable adjustment are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-216",
+      "topic": "body-awareness",
+      "question": "How can I deepen my practice of body awareness?",
+      "answer": "Extend the activity by adjusting one detail of recognizing tired shoulders after studying, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-217",
+      "topic": "body-awareness",
+      "question": "What if body awareness feels frustrating or difficult?",
+      "answer": "Make the task smaller: Pause and identify one comfortable adjustment. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-218",
+      "topic": "body-awareness",
+      "question": "What evidence shows improvement in body awareness?",
+      "answer": "Track what you did, how recognizing tired shoulders after studying applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-219",
+      "topic": "body-awareness",
+      "question": "What claim should I avoid making about body awareness?",
+      "answer": "Do not label normal sensations as diagnoses. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-220",
+      "topic": "body-awareness",
+      "question": "How can I reflect on learning body awareness?",
+      "answer": "Write down the starting example recognizing tired shoulders after studying, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-221",
+      "topic": "hydration",
+      "question": "What does hydration involve?",
+      "answer": "Hydration supports ordinary daily activity and temperature regulation. For instance, drinking water around moderate exercise.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-222",
+      "topic": "hydration",
+      "question": "Why is hydration worth learning?",
+      "answer": "Hydration supports ordinary daily activity and temperature regulation. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-223",
+      "topic": "hydration",
+      "question": "Can you describe hydration with an example?",
+      "answer": "Consider this example: drinking water around moderate exercise. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-224",
+      "topic": "hydration",
+      "question": "How can a beginner begin hydration?",
+      "answer": "Start small: Plan accessible water breaks. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-225",
+      "topic": "hydration",
+      "question": "What is a common mistake with hydration?",
+      "answer": "Avoid rigid amounts without individual context. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-226",
+      "topic": "hydration",
+      "question": "How would you explain hydration to a young learner?",
+      "answer": "Use the concrete example drinking water around moderate exercise and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-227",
+      "topic": "hydration",
+      "question": "What brief activity helps me understand hydration?",
+      "answer": "Try this brief activity: Plan accessible water breaks. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-228",
+      "topic": "hydration",
+      "question": "How can I check my understanding of hydration?",
+      "answer": "Explain the central idea in your own words: hydration supports ordinary daily activity and temperature regulation. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-229",
+      "topic": "hydration",
+      "question": "When might hydration help in daily life?",
+      "answer": "A useful everyday connection is drinking water around moderate exercise. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-230",
+      "topic": "hydration",
+      "question": "What should I notice first about hydration?",
+      "answer": "Notice the key distinction: Hydration supports ordinary daily activity and temperature regulation. The example drinking water around moderate exercise makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-231",
+      "topic": "hydration",
+      "question": "How can I explore hydration safely on my own?",
+      "answer": "Begin with plan accessible water breaks. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-232",
+      "topic": "hydration",
+      "question": "What important question should I ask about hydration?",
+      "answer": "Ask which assumptions matter in drinking water around moderate exercise. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-233",
+      "topic": "hydration",
+      "question": "What other skill connects to hydration?",
+      "answer": "Connect hydration with planning, observation and clear communication. For a practical bridge, consider drinking water around moderate exercise.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-234",
+      "topic": "hydration",
+      "question": "How can two people practice hydration together?",
+      "answer": "One person can explain drinking water around moderate exercise; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-235",
+      "topic": "hydration",
+      "question": "What basic materials help with hydration?",
+      "answer": "A notebook and a comfortable place to try plan accessible water breaks are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-236",
+      "topic": "hydration",
+      "question": "How can I deepen my practice of hydration?",
+      "answer": "Extend the activity by adjusting one detail of drinking water around moderate exercise, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-237",
+      "topic": "hydration",
+      "question": "What if hydration feels frustrating or difficult?",
+      "answer": "Make the task smaller: Plan accessible water breaks. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-238",
+      "topic": "hydration",
+      "question": "What evidence shows improvement in hydration?",
+      "answer": "Track what you did, how drinking water around moderate exercise applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-239",
+      "topic": "hydration",
+      "question": "What claim should I avoid making about hydration?",
+      "answer": "Avoid rigid amounts without individual context. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-240",
+      "topic": "hydration",
+      "question": "How can I reflect on learning hydration?",
+      "answer": "Write down the starting example drinking water around moderate exercise, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-241",
+      "topic": "sleep-routines",
+      "question": "What does sleep routines involve?",
+      "answer": "Sleep routines use predictable calming habits. For instance, dimming lights and reading before bed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-242",
+      "topic": "sleep-routines",
+      "question": "Why is sleep routines worth learning?",
+      "answer": "Sleep routines use predictable calming habits. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-243",
+      "topic": "sleep-routines",
+      "question": "Can you describe sleep routines with an example?",
+      "answer": "Consider this example: dimming lights and reading before bed. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-244",
+      "topic": "sleep-routines",
+      "question": "How can a beginner begin sleep routines?",
+      "answer": "Start small: Choose one realistic regular bedtime cue. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-245",
+      "topic": "sleep-routines",
+      "question": "What is a common mistake with sleep routines?",
+      "answer": "Do not promise a routine cures insomnia. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-246",
+      "topic": "sleep-routines",
+      "question": "How would you explain sleep routines to a young learner?",
+      "answer": "Use the concrete example dimming lights and reading before bed and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-247",
+      "topic": "sleep-routines",
+      "question": "What brief activity helps me understand sleep routines?",
+      "answer": "Try this brief activity: Choose one realistic regular bedtime cue. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-248",
+      "topic": "sleep-routines",
+      "question": "How can I check my understanding of sleep routines?",
+      "answer": "Explain the central idea in your own words: sleep routines use predictable calming habits. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-249",
+      "topic": "sleep-routines",
+      "question": "When might sleep routines help in daily life?",
+      "answer": "A useful everyday connection is dimming lights and reading before bed. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-250",
+      "topic": "sleep-routines",
+      "question": "What should I notice first about sleep routines?",
+      "answer": "Notice the key distinction: Sleep routines use predictable calming habits. The example dimming lights and reading before bed makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-251",
+      "topic": "sleep-routines",
+      "question": "How can I explore sleep routines safely on my own?",
+      "answer": "Begin with choose one realistic regular bedtime cue. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-252",
+      "topic": "sleep-routines",
+      "question": "What important question should I ask about sleep routines?",
+      "answer": "Ask which assumptions matter in dimming lights and reading before bed. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-253",
+      "topic": "sleep-routines",
+      "question": "What other skill connects to sleep routines?",
+      "answer": "Connect sleep routines with planning, observation and clear communication. For a practical bridge, consider dimming lights and reading before bed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-254",
+      "topic": "sleep-routines",
+      "question": "How can two people practice sleep routines together?",
+      "answer": "One person can explain dimming lights and reading before bed; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-255",
+      "topic": "sleep-routines",
+      "question": "What basic materials help with sleep routines?",
+      "answer": "A notebook and a comfortable place to try choose one realistic regular bedtime cue are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-256",
+      "topic": "sleep-routines",
+      "question": "How can I deepen my practice of sleep routines?",
+      "answer": "Extend the activity by adjusting one detail of dimming lights and reading before bed, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-257",
+      "topic": "sleep-routines",
+      "question": "What if sleep routines feels frustrating or difficult?",
+      "answer": "Make the task smaller: Choose one realistic regular bedtime cue. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-258",
+      "topic": "sleep-routines",
+      "question": "What evidence shows improvement in sleep routines?",
+      "answer": "Track what you did, how dimming lights and reading before bed applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-259",
+      "topic": "sleep-routines",
+      "question": "What claim should I avoid making about sleep routines?",
+      "answer": "Do not promise a routine cures insomnia. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-260",
+      "topic": "sleep-routines",
+      "question": "How can I reflect on learning sleep routines?",
+      "answer": "Write down the starting example dimming lights and reading before bed, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-261",
+      "topic": "physical-activity-variety",
+      "question": "What does physical activity variety involve?",
+      "answer": "Variety develops different movement skills and enjoyment. For instance, alternating walking stretching and ball games.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-262",
+      "topic": "physical-activity-variety",
+      "question": "Why is physical activity variety worth learning?",
+      "answer": "Variety develops different movement skills and enjoyment. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-263",
+      "topic": "physical-activity-variety",
+      "question": "Can you describe physical activity variety with an example?",
+      "answer": "Consider this example: alternating walking stretching and ball games. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-264",
+      "topic": "physical-activity-variety",
+      "question": "How can a beginner begin physical activity variety?",
+      "answer": "Start small: Try a personally enjoyable activity. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-265",
+      "topic": "physical-activity-variety",
+      "question": "What is a common mistake with physical activity variety?",
+      "answer": "Avoid comparison or shaming based on fitness. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-266",
+      "topic": "physical-activity-variety",
+      "question": "How would you explain physical activity variety to a young learner?",
+      "answer": "Use the concrete example alternating walking stretching and ball games and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-267",
+      "topic": "physical-activity-variety",
+      "question": "What brief activity helps me understand physical activity variety?",
+      "answer": "Try this brief activity: Try a personally enjoyable activity. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-268",
+      "topic": "physical-activity-variety",
+      "question": "How can I check my understanding of physical activity variety?",
+      "answer": "Explain the central idea in your own words: variety develops different movement skills and enjoyment. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-269",
+      "topic": "physical-activity-variety",
+      "question": "When might physical activity variety help in daily life?",
+      "answer": "A useful everyday connection is alternating walking stretching and ball games. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-270",
+      "topic": "physical-activity-variety",
+      "question": "What should I notice first about physical activity variety?",
+      "answer": "Notice the key distinction: Variety develops different movement skills and enjoyment. The example alternating walking stretching and ball games makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-271",
+      "topic": "physical-activity-variety",
+      "question": "How can I explore physical activity variety safely on my own?",
+      "answer": "Begin with try a personally enjoyable activity. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-272",
+      "topic": "physical-activity-variety",
+      "question": "What important question should I ask about physical activity variety?",
+      "answer": "Ask which assumptions matter in alternating walking stretching and ball games. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-273",
+      "topic": "physical-activity-variety",
+      "question": "What other skill connects to physical activity variety?",
+      "answer": "Connect physical activity variety with planning, observation and clear communication. For a practical bridge, consider alternating walking stretching and ball games.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-274",
+      "topic": "physical-activity-variety",
+      "question": "How can two people practice physical activity variety together?",
+      "answer": "One person can explain alternating walking stretching and ball games; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-275",
+      "topic": "physical-activity-variety",
+      "question": "What basic materials help with physical activity variety?",
+      "answer": "A notebook and a comfortable place to try try a personally enjoyable activity are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-276",
+      "topic": "physical-activity-variety",
+      "question": "How can I deepen my practice of physical activity variety?",
+      "answer": "Extend the activity by adjusting one detail of alternating walking stretching and ball games, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-277",
+      "topic": "physical-activity-variety",
+      "question": "What if physical activity variety feels frustrating or difficult?",
+      "answer": "Make the task smaller: Try a personally enjoyable activity. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-278",
+      "topic": "physical-activity-variety",
+      "question": "What evidence shows improvement in physical activity variety?",
+      "answer": "Track what you did, how alternating walking stretching and ball games applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-279",
+      "topic": "physical-activity-variety",
+      "question": "What claim should I avoid making about physical activity variety?",
+      "answer": "Avoid comparison or shaming based on fitness. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-280",
+      "topic": "physical-activity-variety",
+      "question": "How can I reflect on learning physical activity variety?",
+      "answer": "Write down the starting example alternating walking stretching and ball games, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-281",
+      "topic": "heart-rate-awareness",
+      "question": "What does heart rate awareness involve?",
+      "answer": "Heart rate changes with effort and recovery. For instance, noticing a faster pulse after walking.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-282",
+      "topic": "heart-rate-awareness",
+      "question": "Why is heart rate awareness worth learning?",
+      "answer": "Heart rate changes with effort and recovery. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-283",
+      "topic": "heart-rate-awareness",
+      "question": "Can you describe heart rate awareness with an example?",
+      "answer": "Consider this example: noticing a faster pulse after walking. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-284",
+      "topic": "heart-rate-awareness",
+      "question": "How can a beginner begin heart rate awareness?",
+      "answer": "Start small: Compare comfortable rest and light activity sensations. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-285",
+      "topic": "heart-rate-awareness",
+      "question": "What is a common mistake with heart rate awareness?",
+      "answer": "Do not interpret pulse as a diagnosis. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-286",
+      "topic": "heart-rate-awareness",
+      "question": "How would you explain heart rate awareness to a young learner?",
+      "answer": "Use the concrete example noticing a faster pulse after walking and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-287",
+      "topic": "heart-rate-awareness",
+      "question": "What brief activity helps me understand heart rate awareness?",
+      "answer": "Try this brief activity: Compare comfortable rest and light activity sensations. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-288",
+      "topic": "heart-rate-awareness",
+      "question": "How can I check my understanding of heart rate awareness?",
+      "answer": "Explain the central idea in your own words: heart rate changes with effort and recovery. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-289",
+      "topic": "heart-rate-awareness",
+      "question": "When might heart rate awareness help in daily life?",
+      "answer": "A useful everyday connection is noticing a faster pulse after walking. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-290",
+      "topic": "heart-rate-awareness",
+      "question": "What should I notice first about heart rate awareness?",
+      "answer": "Notice the key distinction: Heart rate changes with effort and recovery. The example noticing a faster pulse after walking makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-291",
+      "topic": "heart-rate-awareness",
+      "question": "How can I explore heart rate awareness safely on my own?",
+      "answer": "Begin with compare comfortable rest and light activity sensations. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-292",
+      "topic": "heart-rate-awareness",
+      "question": "What important question should I ask about heart rate awareness?",
+      "answer": "Ask which assumptions matter in noticing a faster pulse after walking. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-293",
+      "topic": "heart-rate-awareness",
+      "question": "What other skill connects to heart rate awareness?",
+      "answer": "Connect heart rate awareness with planning, observation and clear communication. For a practical bridge, consider noticing a faster pulse after walking.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-294",
+      "topic": "heart-rate-awareness",
+      "question": "How can two people practice heart rate awareness together?",
+      "answer": "One person can explain noticing a faster pulse after walking; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-295",
+      "topic": "heart-rate-awareness",
+      "question": "What basic materials help with heart rate awareness?",
+      "answer": "A notebook and a comfortable place to try compare comfortable rest and light activity sensations are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-296",
+      "topic": "heart-rate-awareness",
+      "question": "How can I deepen my practice of heart rate awareness?",
+      "answer": "Extend the activity by adjusting one detail of noticing a faster pulse after walking, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-297",
+      "topic": "heart-rate-awareness",
+      "question": "What if heart rate awareness feels frustrating or difficult?",
+      "answer": "Make the task smaller: Compare comfortable rest and light activity sensations. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-298",
+      "topic": "heart-rate-awareness",
+      "question": "What evidence shows improvement in heart rate awareness?",
+      "answer": "Track what you did, how noticing a faster pulse after walking applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-299",
+      "topic": "heart-rate-awareness",
+      "question": "What claim should I avoid making about heart rate awareness?",
+      "answer": "Do not interpret pulse as a diagnosis. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-300",
+      "topic": "heart-rate-awareness",
+      "question": "How can I reflect on learning heart rate awareness?",
+      "answer": "Write down the starting example noticing a faster pulse after walking, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-301",
+      "topic": "flexibility",
+      "question": "What does flexibility involve?",
+      "answer": "Flexibility describes comfortable joint range of motion. For instance, gentle calf stretching after a walk.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-302",
+      "topic": "flexibility",
+      "question": "Why is flexibility worth learning?",
+      "answer": "Flexibility describes comfortable joint range of motion. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-303",
+      "topic": "flexibility",
+      "question": "Can you describe flexibility with an example?",
+      "answer": "Consider this example: gentle calf stretching after a walk. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-304",
+      "topic": "flexibility",
+      "question": "How can a beginner begin flexibility?",
+      "answer": "Start small: Move within a natural pain-free range. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-305",
+      "topic": "flexibility",
+      "question": "What is a common mistake with flexibility?",
+      "answer": "Avoid bouncing or forced stretching. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-306",
+      "topic": "flexibility",
+      "question": "How would you explain flexibility to a young learner?",
+      "answer": "Use the concrete example gentle calf stretching after a walk and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-307",
+      "topic": "flexibility",
+      "question": "What brief activity helps me understand flexibility?",
+      "answer": "Try this brief activity: Move within a natural pain-free range. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-308",
+      "topic": "flexibility",
+      "question": "How can I check my understanding of flexibility?",
+      "answer": "Explain the central idea in your own words: flexibility describes comfortable joint range of motion. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-309",
+      "topic": "flexibility",
+      "question": "When might flexibility help in daily life?",
+      "answer": "A useful everyday connection is gentle calf stretching after a walk. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-310",
+      "topic": "flexibility",
+      "question": "What should I notice first about flexibility?",
+      "answer": "Notice the key distinction: Flexibility describes comfortable joint range of motion. The example gentle calf stretching after a walk makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-311",
+      "topic": "flexibility",
+      "question": "How can I explore flexibility safely on my own?",
+      "answer": "Begin with move within a natural pain-free range. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-312",
+      "topic": "flexibility",
+      "question": "What important question should I ask about flexibility?",
+      "answer": "Ask which assumptions matter in gentle calf stretching after a walk. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-313",
+      "topic": "flexibility",
+      "question": "What other skill connects to flexibility?",
+      "answer": "Connect flexibility with planning, observation and clear communication. For a practical bridge, consider gentle calf stretching after a walk.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-314",
+      "topic": "flexibility",
+      "question": "How can two people practice flexibility together?",
+      "answer": "One person can explain gentle calf stretching after a walk; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-315",
+      "topic": "flexibility",
+      "question": "What basic materials help with flexibility?",
+      "answer": "A notebook and a comfortable place to try move within a natural pain-free range are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-316",
+      "topic": "flexibility",
+      "question": "How can I deepen my practice of flexibility?",
+      "answer": "Extend the activity by adjusting one detail of gentle calf stretching after a walk, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-317",
+      "topic": "flexibility",
+      "question": "What if flexibility feels frustrating or difficult?",
+      "answer": "Make the task smaller: Move within a natural pain-free range. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-318",
+      "topic": "flexibility",
+      "question": "What evidence shows improvement in flexibility?",
+      "answer": "Track what you did, how gentle calf stretching after a walk applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-319",
+      "topic": "flexibility",
+      "question": "What claim should I avoid making about flexibility?",
+      "answer": "Avoid bouncing or forced stretching. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-320",
+      "topic": "flexibility",
+      "question": "How can I reflect on learning flexibility?",
+      "answer": "Write down the starting example gentle calf stretching after a walk, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-321",
+      "topic": "strength-basics",
+      "question": "What does strength basics involve?",
+      "answer": "Strength practice builds controlled effort. For instance, careful sit-to-stand from a stable chair.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-322",
+      "topic": "strength-basics",
+      "question": "Why is strength basics worth learning?",
+      "answer": "Strength practice builds controlled effort. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-323",
+      "topic": "strength-basics",
+      "question": "Can you describe strength basics with an example?",
+      "answer": "Consider this example: careful sit-to-stand from a stable chair. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-324",
+      "topic": "strength-basics",
+      "question": "How can a beginner begin strength basics?",
+      "answer": "Start small: Practice a few comfortable controlled repetitions. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-325",
+      "topic": "strength-basics",
+      "question": "What is a common mistake with strength basics?",
+      "answer": "Adjust for age ability and medical guidance. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-326",
+      "topic": "strength-basics",
+      "question": "How would you explain strength basics to a young learner?",
+      "answer": "Use the concrete example careful sit-to-stand from a stable chair and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-327",
+      "topic": "strength-basics",
+      "question": "What brief activity helps me understand strength basics?",
+      "answer": "Try this brief activity: Practice a few comfortable controlled repetitions. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-328",
+      "topic": "strength-basics",
+      "question": "How can I check my understanding of strength basics?",
+      "answer": "Explain the central idea in your own words: strength practice builds controlled effort. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-329",
+      "topic": "strength-basics",
+      "question": "When might strength basics help in daily life?",
+      "answer": "A useful everyday connection is careful sit-to-stand from a stable chair. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-330",
+      "topic": "strength-basics",
+      "question": "What should I notice first about strength basics?",
+      "answer": "Notice the key distinction: Strength practice builds controlled effort. The example careful sit-to-stand from a stable chair makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-331",
+      "topic": "strength-basics",
+      "question": "How can I explore strength basics safely on my own?",
+      "answer": "Begin with practice a few comfortable controlled repetitions. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-332",
+      "topic": "strength-basics",
+      "question": "What important question should I ask about strength basics?",
+      "answer": "Ask which assumptions matter in careful sit-to-stand from a stable chair. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-333",
+      "topic": "strength-basics",
+      "question": "What other skill connects to strength basics?",
+      "answer": "Connect strength basics with planning, observation and clear communication. For a practical bridge, consider careful sit-to-stand from a stable chair.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-334",
+      "topic": "strength-basics",
+      "question": "How can two people practice strength basics together?",
+      "answer": "One person can explain careful sit-to-stand from a stable chair; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-335",
+      "topic": "strength-basics",
+      "question": "What basic materials help with strength basics?",
+      "answer": "A notebook and a comfortable place to try practice a few comfortable controlled repetitions are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-336",
+      "topic": "strength-basics",
+      "question": "How can I deepen my practice of strength basics?",
+      "answer": "Extend the activity by adjusting one detail of careful sit-to-stand from a stable chair, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-337",
+      "topic": "strength-basics",
+      "question": "What if strength basics feels frustrating or difficult?",
+      "answer": "Make the task smaller: Practice a few comfortable controlled repetitions. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-338",
+      "topic": "strength-basics",
+      "question": "What evidence shows improvement in strength basics?",
+      "answer": "Track what you did, how careful sit-to-stand from a stable chair applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-339",
+      "topic": "strength-basics",
+      "question": "What claim should I avoid making about strength basics?",
+      "answer": "Adjust for age ability and medical guidance. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-340",
+      "topic": "strength-basics",
+      "question": "How can I reflect on learning strength basics?",
+      "answer": "Write down the starting example careful sit-to-stand from a stable chair, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-341",
+      "topic": "movement-accessibility",
+      "question": "What does movement accessibility involve?",
+      "answer": "Accessible PE offers different paths to similar participation. For instance, seated target tossing alongside standing games.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-342",
+      "topic": "movement-accessibility",
+      "question": "Why is movement accessibility worth learning?",
+      "answer": "Accessible PE offers different paths to similar participation. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-343",
+      "topic": "movement-accessibility",
+      "question": "Can you describe movement accessibility with an example?",
+      "answer": "Consider this example: seated target tossing alongside standing games. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-344",
+      "topic": "movement-accessibility",
+      "question": "How can a beginner begin movement accessibility?",
+      "answer": "Start small: Offer two equivalent movement options. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-345",
+      "topic": "movement-accessibility",
+      "question": "What is a common mistake with movement accessibility?",
+      "answer": "Avoid equating disability with lack of effort. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-346",
+      "topic": "movement-accessibility",
+      "question": "How would you explain movement accessibility to a young learner?",
+      "answer": "Use the concrete example seated target tossing alongside standing games and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-347",
+      "topic": "movement-accessibility",
+      "question": "What brief activity helps me understand movement accessibility?",
+      "answer": "Try this brief activity: Offer two equivalent movement options. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-348",
+      "topic": "movement-accessibility",
+      "question": "How can I check my understanding of movement accessibility?",
+      "answer": "Explain the central idea in your own words: accessible pe offers different paths to similar participation. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-349",
+      "topic": "movement-accessibility",
+      "question": "When might movement accessibility help in daily life?",
+      "answer": "A useful everyday connection is seated target tossing alongside standing games. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-350",
+      "topic": "movement-accessibility",
+      "question": "What should I notice first about movement accessibility?",
+      "answer": "Notice the key distinction: Accessible PE offers different paths to similar participation. The example seated target tossing alongside standing games makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-351",
+      "topic": "movement-accessibility",
+      "question": "How can I explore movement accessibility safely on my own?",
+      "answer": "Begin with offer two equivalent movement options. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-352",
+      "topic": "movement-accessibility",
+      "question": "What important question should I ask about movement accessibility?",
+      "answer": "Ask which assumptions matter in seated target tossing alongside standing games. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-353",
+      "topic": "movement-accessibility",
+      "question": "What other skill connects to movement accessibility?",
+      "answer": "Connect movement accessibility with planning, observation and clear communication. For a practical bridge, consider seated target tossing alongside standing games.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-354",
+      "topic": "movement-accessibility",
+      "question": "How can two people practice movement accessibility together?",
+      "answer": "One person can explain seated target tossing alongside standing games; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-355",
+      "topic": "movement-accessibility",
+      "question": "What basic materials help with movement accessibility?",
+      "answer": "A notebook and a comfortable place to try offer two equivalent movement options are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-356",
+      "topic": "movement-accessibility",
+      "question": "How can I deepen my practice of movement accessibility?",
+      "answer": "Extend the activity by adjusting one detail of seated target tossing alongside standing games, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-357",
+      "topic": "movement-accessibility",
+      "question": "What if movement accessibility feels frustrating or difficult?",
+      "answer": "Make the task smaller: Offer two equivalent movement options. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-358",
+      "topic": "movement-accessibility",
+      "question": "What evidence shows improvement in movement accessibility?",
+      "answer": "Track what you did, how seated target tossing alongside standing games applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-359",
+      "topic": "movement-accessibility",
+      "question": "What claim should I avoid making about movement accessibility?",
+      "answer": "Avoid equating disability with lack of effort. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-360",
+      "topic": "movement-accessibility",
+      "question": "How can I reflect on learning movement accessibility?",
+      "answer": "Write down the starting example seated target tossing alongside standing games, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-361",
+      "topic": "movement-games",
+      "question": "What does movement games involve?",
+      "answer": "Movement games pair physical activity with play. For instance, a gentle follow-the-leader movement round.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-362",
+      "topic": "movement-games",
+      "question": "Why is movement games worth learning?",
+      "answer": "Movement games pair physical activity with play. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-363",
+      "topic": "movement-games",
+      "question": "Can you describe movement games with an example?",
+      "answer": "Consider this example: a gentle follow-the-leader movement round. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-364",
+      "topic": "movement-games",
+      "question": "How can a beginner begin movement games?",
+      "answer": "Start small: Design a brief inclusive movement challenge. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-365",
+      "topic": "movement-games",
+      "question": "What is a common mistake with movement games?",
+      "answer": "Avoid games that exclude learners for speed. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-366",
+      "topic": "movement-games",
+      "question": "How would you explain movement games to a young learner?",
+      "answer": "Use the concrete example a gentle follow-the-leader movement round and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-367",
+      "topic": "movement-games",
+      "question": "What brief activity helps me understand movement games?",
+      "answer": "Try this brief activity: Design a brief inclusive movement challenge. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-368",
+      "topic": "movement-games",
+      "question": "How can I check my understanding of movement games?",
+      "answer": "Explain the central idea in your own words: movement games pair physical activity with play. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-369",
+      "topic": "movement-games",
+      "question": "When might movement games help in daily life?",
+      "answer": "A useful everyday connection is a gentle follow-the-leader movement round. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-370",
+      "topic": "movement-games",
+      "question": "What should I notice first about movement games?",
+      "answer": "Notice the key distinction: Movement games pair physical activity with play. The example a gentle follow-the-leader movement round makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-371",
+      "topic": "movement-games",
+      "question": "How can I explore movement games safely on my own?",
+      "answer": "Begin with design a brief inclusive movement challenge. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-372",
+      "topic": "movement-games",
+      "question": "What important question should I ask about movement games?",
+      "answer": "Ask which assumptions matter in a gentle follow-the-leader movement round. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-373",
+      "topic": "movement-games",
+      "question": "What other skill connects to movement games?",
+      "answer": "Connect movement games with planning, observation and clear communication. For a practical bridge, consider a gentle follow-the-leader movement round.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-374",
+      "topic": "movement-games",
+      "question": "How can two people practice movement games together?",
+      "answer": "One person can explain a gentle follow-the-leader movement round; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-375",
+      "topic": "movement-games",
+      "question": "What basic materials help with movement games?",
+      "answer": "A notebook and a comfortable place to try design a brief inclusive movement challenge are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-376",
+      "topic": "movement-games",
+      "question": "How can I deepen my practice of movement games?",
+      "answer": "Extend the activity by adjusting one detail of a gentle follow-the-leader movement round, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-377",
+      "topic": "movement-games",
+      "question": "What if movement games feels frustrating or difficult?",
+      "answer": "Make the task smaller: Design a brief inclusive movement challenge. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-378",
+      "topic": "movement-games",
+      "question": "What evidence shows improvement in movement games?",
+      "answer": "Track what you did, how a gentle follow-the-leader movement round applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-379",
+      "topic": "movement-games",
+      "question": "What claim should I avoid making about movement games?",
+      "answer": "Avoid games that exclude learners for speed. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-380",
+      "topic": "movement-games",
+      "question": "How can I reflect on learning movement games?",
+      "answer": "Write down the starting example a gentle follow-the-leader movement round, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-381",
+      "topic": "health-literacy",
+      "question": "What does health literacy involve?",
+      "answer": "Health literacy evaluates general information and sources. For instance, checking who authored a wellness claim.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-382",
+      "topic": "health-literacy",
+      "question": "Why is health literacy worth learning?",
+      "answer": "Health literacy evaluates general information and sources. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-383",
+      "topic": "health-literacy",
+      "question": "Can you describe health literacy with an example?",
+      "answer": "Consider this example: checking who authored a wellness claim. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-384",
+      "topic": "health-literacy",
+      "question": "How can a beginner begin health literacy?",
+      "answer": "Start small: Compare a claim against a credible health source. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-385",
+      "topic": "health-literacy",
+      "question": "What is a common mistake with health literacy?",
+      "answer": "Do not infer treatment from social-media testimonials. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-386",
+      "topic": "health-literacy",
+      "question": "How would you explain health literacy to a young learner?",
+      "answer": "Use the concrete example checking who authored a wellness claim and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-387",
+      "topic": "health-literacy",
+      "question": "What brief activity helps me understand health literacy?",
+      "answer": "Try this brief activity: Compare a claim against a credible health source. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-388",
+      "topic": "health-literacy",
+      "question": "How can I check my understanding of health literacy?",
+      "answer": "Explain the central idea in your own words: health literacy evaluates general information and sources. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-389",
+      "topic": "health-literacy",
+      "question": "When might health literacy help in daily life?",
+      "answer": "A useful everyday connection is checking who authored a wellness claim. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-390",
+      "topic": "health-literacy",
+      "question": "What should I notice first about health literacy?",
+      "answer": "Notice the key distinction: Health literacy evaluates general information and sources. The example checking who authored a wellness claim makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-391",
+      "topic": "health-literacy",
+      "question": "How can I explore health literacy safely on my own?",
+      "answer": "Begin with compare a claim against a credible health source. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-392",
+      "topic": "health-literacy",
+      "question": "What important question should I ask about health literacy?",
+      "answer": "Ask which assumptions matter in checking who authored a wellness claim. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-393",
+      "topic": "health-literacy",
+      "question": "What other skill connects to health literacy?",
+      "answer": "Connect health literacy with planning, observation and clear communication. For a practical bridge, consider checking who authored a wellness claim.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-394",
+      "topic": "health-literacy",
+      "question": "How can two people practice health literacy together?",
+      "answer": "One person can explain checking who authored a wellness claim; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-395",
+      "topic": "health-literacy",
+      "question": "What basic materials help with health literacy?",
+      "answer": "A notebook and a comfortable place to try compare a claim against a credible health source are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-396",
+      "topic": "health-literacy",
+      "question": "How can I deepen my practice of health literacy?",
+      "answer": "Extend the activity by adjusting one detail of checking who authored a wellness claim, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-397",
+      "topic": "health-literacy",
+      "question": "What if health literacy feels frustrating or difficult?",
+      "answer": "Make the task smaller: Compare a claim against a credible health source. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-398",
+      "topic": "health-literacy",
+      "question": "What evidence shows improvement in health literacy?",
+      "answer": "Track what you did, how checking who authored a wellness claim applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-399",
+      "topic": "health-literacy",
+      "question": "What claim should I avoid making about health literacy?",
+      "answer": "Do not infer treatment from social-media testimonials. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-400",
+      "topic": "health-literacy",
+      "question": "How can I reflect on learning health literacy?",
+      "answer": "Write down the starting example checking who authored a wellness claim, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-401",
+      "topic": "emotional-check-ins",
+      "question": "What does emotional check-ins involve?",
+      "answer": "Emotional check-ins name feelings without diagnosing them. For instance, choosing a word for today's mood.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-402",
+      "topic": "emotional-check-ins",
+      "question": "Why is emotional check-ins worth learning?",
+      "answer": "Emotional check-ins name feelings without diagnosing them. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-403",
+      "topic": "emotional-check-ins",
+      "question": "Can you describe emotional check-ins with an example?",
+      "answer": "Consider this example: choosing a word for today's mood. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-404",
+      "topic": "emotional-check-ins",
+      "question": "How can a beginner begin emotional check-ins?",
+      "answer": "Start small: Write one word and a kind next step. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-405",
+      "topic": "emotional-check-ins",
+      "question": "What is a common mistake with emotional check-ins?",
+      "answer": "Avoid claiming to know another person's feelings. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-406",
+      "topic": "emotional-check-ins",
+      "question": "How would you explain emotional check-ins to a young learner?",
+      "answer": "Use the concrete example choosing a word for today's mood and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-407",
+      "topic": "emotional-check-ins",
+      "question": "What brief activity helps me understand emotional check-ins?",
+      "answer": "Try this brief activity: Write one word and a kind next step. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-408",
+      "topic": "emotional-check-ins",
+      "question": "How can I check my understanding of emotional check-ins?",
+      "answer": "Explain the central idea in your own words: emotional check-ins name feelings without diagnosing them. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-409",
+      "topic": "emotional-check-ins",
+      "question": "When might emotional check-ins help in daily life?",
+      "answer": "A useful everyday connection is choosing a word for today's mood. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-410",
+      "topic": "emotional-check-ins",
+      "question": "What should I notice first about emotional check-ins?",
+      "answer": "Notice the key distinction: Emotional check-ins name feelings without diagnosing them. The example choosing a word for today's mood makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-411",
+      "topic": "emotional-check-ins",
+      "question": "How can I explore emotional check-ins safely on my own?",
+      "answer": "Begin with write one word and a kind next step. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-412",
+      "topic": "emotional-check-ins",
+      "question": "What important question should I ask about emotional check-ins?",
+      "answer": "Ask which assumptions matter in choosing a word for today's mood. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-413",
+      "topic": "emotional-check-ins",
+      "question": "What other skill connects to emotional check-ins?",
+      "answer": "Connect emotional check-ins with planning, observation and clear communication. For a practical bridge, consider choosing a word for today's mood.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-414",
+      "topic": "emotional-check-ins",
+      "question": "How can two people practice emotional check-ins together?",
+      "answer": "One person can explain choosing a word for today's mood; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-415",
+      "topic": "emotional-check-ins",
+      "question": "What basic materials help with emotional check-ins?",
+      "answer": "A notebook and a comfortable place to try write one word and a kind next step are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-416",
+      "topic": "emotional-check-ins",
+      "question": "How can I deepen my practice of emotional check-ins?",
+      "answer": "Extend the activity by adjusting one detail of choosing a word for today's mood, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-417",
+      "topic": "emotional-check-ins",
+      "question": "What if emotional check-ins feels frustrating or difficult?",
+      "answer": "Make the task smaller: Write one word and a kind next step. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-418",
+      "topic": "emotional-check-ins",
+      "question": "What evidence shows improvement in emotional check-ins?",
+      "answer": "Track what you did, how choosing a word for today's mood applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-419",
+      "topic": "emotional-check-ins",
+      "question": "What claim should I avoid making about emotional check-ins?",
+      "answer": "Avoid claiming to know another person's feelings. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-420",
+      "topic": "emotional-check-ins",
+      "question": "How can I reflect on learning emotional check-ins?",
+      "answer": "Write down the starting example choosing a word for today's mood, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-421",
+      "topic": "journaling",
+      "question": "What does journaling involve?",
+      "answer": "Journaling can organize attention and reflection. For instance, recording one thing noticed outdoors.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-422",
+      "topic": "journaling",
+      "question": "Why is journaling worth learning?",
+      "answer": "Journaling can organize attention and reflection. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-423",
+      "topic": "journaling",
+      "question": "Can you describe journaling with an example?",
+      "answer": "Consider this example: recording one thing noticed outdoors. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-424",
+      "topic": "journaling",
+      "question": "How can a beginner begin journaling?",
+      "answer": "Start small: Write three optional observations. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-425",
+      "topic": "journaling",
+      "question": "What is a common mistake with journaling?",
+      "answer": "Do not require disclosure of private experiences. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-426",
+      "topic": "journaling",
+      "question": "How would you explain journaling to a young learner?",
+      "answer": "Use the concrete example recording one thing noticed outdoors and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-427",
+      "topic": "journaling",
+      "question": "What brief activity helps me understand journaling?",
+      "answer": "Try this brief activity: Write three optional observations. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-428",
+      "topic": "journaling",
+      "question": "How can I check my understanding of journaling?",
+      "answer": "Explain the central idea in your own words: journaling can organize attention and reflection. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-429",
+      "topic": "journaling",
+      "question": "When might journaling help in daily life?",
+      "answer": "A useful everyday connection is recording one thing noticed outdoors. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-430",
+      "topic": "journaling",
+      "question": "What should I notice first about journaling?",
+      "answer": "Notice the key distinction: Journaling can organize attention and reflection. The example recording one thing noticed outdoors makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-431",
+      "topic": "journaling",
+      "question": "How can I explore journaling safely on my own?",
+      "answer": "Begin with write three optional observations. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-432",
+      "topic": "journaling",
+      "question": "What important question should I ask about journaling?",
+      "answer": "Ask which assumptions matter in recording one thing noticed outdoors. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-433",
+      "topic": "journaling",
+      "question": "What other skill connects to journaling?",
+      "answer": "Connect journaling with planning, observation and clear communication. For a practical bridge, consider recording one thing noticed outdoors.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-434",
+      "topic": "journaling",
+      "question": "How can two people practice journaling together?",
+      "answer": "One person can explain recording one thing noticed outdoors; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-435",
+      "topic": "journaling",
+      "question": "What basic materials help with journaling?",
+      "answer": "A notebook and a comfortable place to try write three optional observations are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-436",
+      "topic": "journaling",
+      "question": "How can I deepen my practice of journaling?",
+      "answer": "Extend the activity by adjusting one detail of recording one thing noticed outdoors, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-437",
+      "topic": "journaling",
+      "question": "What if journaling feels frustrating or difficult?",
+      "answer": "Make the task smaller: Write three optional observations. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-438",
+      "topic": "journaling",
+      "question": "What evidence shows improvement in journaling?",
+      "answer": "Track what you did, how recording one thing noticed outdoors applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-439",
+      "topic": "journaling",
+      "question": "What claim should I avoid making about journaling?",
+      "answer": "Do not require disclosure of private experiences. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-440",
+      "topic": "journaling",
+      "question": "How can I reflect on learning journaling?",
+      "answer": "Write down the starting example recording one thing noticed outdoors, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-441",
+      "topic": "rest-and-recovery",
+      "question": "What does rest and recovery involve?",
+      "answer": "Rest gives the body time to adapt to activity. For instance, a gentle day after an unusually active afternoon.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-442",
+      "topic": "rest-and-recovery",
+      "question": "Why is rest and recovery worth learning?",
+      "answer": "Rest gives the body time to adapt to activity. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-443",
+      "topic": "rest-and-recovery",
+      "question": "Can you describe rest and recovery with an example?",
+      "answer": "Consider this example: a gentle day after an unusually active afternoon. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-444",
+      "topic": "rest-and-recovery",
+      "question": "How can a beginner begin rest and recovery?",
+      "answer": "Start small: Notice signs you need a lighter activity. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-445",
+      "topic": "rest-and-recovery",
+      "question": "What is a common mistake with rest and recovery?",
+      "answer": "Avoid treating rest as laziness. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-446",
+      "topic": "rest-and-recovery",
+      "question": "How would you explain rest and recovery to a young learner?",
+      "answer": "Use the concrete example a gentle day after an unusually active afternoon and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-447",
+      "topic": "rest-and-recovery",
+      "question": "What brief activity helps me understand rest and recovery?",
+      "answer": "Try this brief activity: Notice signs you need a lighter activity. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-448",
+      "topic": "rest-and-recovery",
+      "question": "How can I check my understanding of rest and recovery?",
+      "answer": "Explain the central idea in your own words: rest gives the body time to adapt to activity. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-449",
+      "topic": "rest-and-recovery",
+      "question": "When might rest and recovery help in daily life?",
+      "answer": "A useful everyday connection is a gentle day after an unusually active afternoon. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-450",
+      "topic": "rest-and-recovery",
+      "question": "What should I notice first about rest and recovery?",
+      "answer": "Notice the key distinction: Rest gives the body time to adapt to activity. The example a gentle day after an unusually active afternoon makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-451",
+      "topic": "rest-and-recovery",
+      "question": "How can I explore rest and recovery safely on my own?",
+      "answer": "Begin with notice signs you need a lighter activity. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-452",
+      "topic": "rest-and-recovery",
+      "question": "What important question should I ask about rest and recovery?",
+      "answer": "Ask which assumptions matter in a gentle day after an unusually active afternoon. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-453",
+      "topic": "rest-and-recovery",
+      "question": "What other skill connects to rest and recovery?",
+      "answer": "Connect rest and recovery with planning, observation and clear communication. For a practical bridge, consider a gentle day after an unusually active afternoon.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-454",
+      "topic": "rest-and-recovery",
+      "question": "How can two people practice rest and recovery together?",
+      "answer": "One person can explain a gentle day after an unusually active afternoon; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-455",
+      "topic": "rest-and-recovery",
+      "question": "What basic materials help with rest and recovery?",
+      "answer": "A notebook and a comfortable place to try notice signs you need a lighter activity are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-456",
+      "topic": "rest-and-recovery",
+      "question": "How can I deepen my practice of rest and recovery?",
+      "answer": "Extend the activity by adjusting one detail of a gentle day after an unusually active afternoon, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-457",
+      "topic": "rest-and-recovery",
+      "question": "What if rest and recovery feels frustrating or difficult?",
+      "answer": "Make the task smaller: Notice signs you need a lighter activity. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-458",
+      "topic": "rest-and-recovery",
+      "question": "What evidence shows improvement in rest and recovery?",
+      "answer": "Track what you did, how a gentle day after an unusually active afternoon applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-459",
+      "topic": "rest-and-recovery",
+      "question": "What claim should I avoid making about rest and recovery?",
+      "answer": "Avoid treating rest as laziness. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-460",
+      "topic": "rest-and-recovery",
+      "question": "How can I reflect on learning rest and recovery?",
+      "answer": "Write down the starting example a gentle day after an unusually active afternoon, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-461",
+      "topic": "mindfulness-choice",
+      "question": "What does mindfulness choice involve?",
+      "answer": "Mindfulness should remain invitational and adaptable. For instance, choosing to notice sounds instead of closing eyes.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-462",
+      "topic": "mindfulness-choice",
+      "question": "Why is mindfulness choice worth learning?",
+      "answer": "Mindfulness should remain invitational and adaptable. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-463",
+      "topic": "mindfulness-choice",
+      "question": "Can you describe mindfulness choice with an example?",
+      "answer": "Consider this example: choosing to notice sounds instead of closing eyes. It illustrates the idea without requiring special equipment or access.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-464",
+      "topic": "mindfulness-choice",
+      "question": "How can a beginner begin mindfulness choice?",
+      "answer": "Start small: Offer an open-eye or movement-based alternative. If it is uncomfortable or unclear, adapt the activity to your situation.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-465",
+      "topic": "mindfulness-choice",
+      "question": "What is a common mistake with mindfulness choice?",
+      "answer": "Never insist a learner remain in a distressing exercise. Slow down and check the specific context before continuing.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-466",
+      "topic": "mindfulness-choice",
+      "question": "How would you explain mindfulness choice to a young learner?",
+      "answer": "Use the concrete example choosing to notice sounds instead of closing eyes and invite questions. Keep the explanation simple and age-appropriate.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-467",
+      "topic": "mindfulness-choice",
+      "question": "What brief activity helps me understand mindfulness choice?",
+      "answer": "Try this brief activity: Offer an open-eye or movement-based alternative. Notice what you learned rather than rating your performance.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-468",
+      "topic": "mindfulness-choice",
+      "question": "How can I check my understanding of mindfulness choice?",
+      "answer": "Explain the central idea in your own words: mindfulness should remain invitational and adaptable. Then offer a different example and compare.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-469",
+      "topic": "mindfulness-choice",
+      "question": "When might mindfulness choice help in daily life?",
+      "answer": "A useful everyday connection is choosing to notice sounds instead of closing eyes. Choose a relevant situation rather than assuming it applies to everyone.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-470",
+      "topic": "mindfulness-choice",
+      "question": "What should I notice first about mindfulness choice?",
+      "answer": "Notice the key distinction: Mindfulness should remain invitational and adaptable. The example choosing to notice sounds instead of closing eyes makes that more concrete.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-471",
+      "topic": "mindfulness-choice",
+      "question": "How can I explore mindfulness choice safely on my own?",
+      "answer": "Begin with offer an open-eye or movement-based alternative. Use a safe, age-appropriate approach and stop if it is not suitable for you.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-472",
+      "topic": "mindfulness-choice",
+      "question": "What important question should I ask about mindfulness choice?",
+      "answer": "Ask which assumptions matter in choosing to notice sounds instead of closing eyes. What facts would you need to make a responsible decision?",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-473",
+      "topic": "mindfulness-choice",
+      "question": "What other skill connects to mindfulness choice?",
+      "answer": "Connect mindfulness choice with planning, observation and clear communication. For a practical bridge, consider choosing to notice sounds instead of closing eyes.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-474",
+      "topic": "mindfulness-choice",
+      "question": "How can two people practice mindfulness choice together?",
+      "answer": "One person can explain choosing to notice sounds instead of closing eyes; the other can suggest an accessible variation. Both should be free to decline.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-475",
+      "topic": "mindfulness-choice",
+      "question": "What basic materials help with mindfulness choice?",
+      "answer": "A notebook and a comfortable place to try offer an open-eye or movement-based alternative are often sufficient. Use appropriate supports if needed.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-476",
+      "topic": "mindfulness-choice",
+      "question": "How can I deepen my practice of mindfulness choice?",
+      "answer": "Extend the activity by adjusting one detail of choosing to notice sounds instead of closing eyes, then compare the experience carefully.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-477",
+      "topic": "mindfulness-choice",
+      "question": "What if mindfulness choice feels frustrating or difficult?",
+      "answer": "Make the task smaller: Offer an open-eye or movement-based alternative. Difficulty is a signal to adjust the approach, not a judgment of the learner.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-478",
+      "topic": "mindfulness-choice",
+      "question": "What evidence shows improvement in mindfulness choice?",
+      "answer": "Track what you did, how choosing to notice sounds instead of closing eyes applied and whether you can explain it more clearly at the next attempt.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-479",
+      "topic": "mindfulness-choice",
+      "question": "What claim should I avoid making about mindfulness choice?",
+      "answer": "Never insist a learner remain in a distressing exercise. Distinguish general education from specialist advice or any action that requires a real-world professional.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-480",
+      "topic": "mindfulness-choice",
+      "question": "How can I reflect on learning mindfulness choice?",
+      "answer": "Write down the starting example choosing to notice sounds instead of closing eyes, what changed and one question you would ask next.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-481",
+      "topic": "safe-pe-boundaries",
+      "question": "What does safe PE boundaries involve?",
+      "answer": "PE safety respects conditions age abilities and supervision. For instance, stopping a drill if pain or dizziness appears.",
+      "status": "founder-approved-editorial"
+    },
+    {
+      "id": "aurora-editorial-20261109-482",
+      "topic": "safe-pe-boundaries",
+      "question": "Why is safe PE boundaries worth learning?",
+      "answer": "PE safety respects conditions age abilities and supervision. A practical benefit is being able to notice and choose your next step with greater care.",
+      "status": "founder-approved-editorial"
+    }
+  ]
+}
