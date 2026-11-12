@@ -49,6 +49,8 @@ function respond(input){
  if(emergency.test(raw))return "This may need urgent help. Please contact emergency services and a trusted person nearby. Do not use a breathing exercise instead of emergency care.";
  if(sensitive.test(raw))return "Please do not share passwords, private information, identity numbers, or personal records in this public wellness chat.";
  if(medical.test(raw))return "I can offer general wellness reflection, not diagnosis or treatment. A qualified healthcare professional can help with medical questions.";
+ const language=root.CreativeSparkLanguageRequest?.answer(raw,{mentorId:"aurora"});
+ if(language)return language;
  if(["hi","hello","hey","good morning","good evening"].includes(s))return "Welcome. I am Aurora. Would you prefer a gentle grounding prompt, a quiet reflection, or help preparing for rest?";
  if(["thank you","thanks"].includes(s))return "You're welcome. You're free to stop, skip, shorten, or return whenever you choose.";
  if(/^(tell me more|another idea|what next|continue|go on|something else)[.!? ]*$/.test(s)&&lastTopic)
