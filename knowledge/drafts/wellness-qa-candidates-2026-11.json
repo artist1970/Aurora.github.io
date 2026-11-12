@@ -1,0 +1,327 @@
+{
+  "schema": "aurora-editorial-candidates-v1",
+  "version": 1,
+  "note": "Never load into public conversation until reviewed and explicitly published.",
+  "records": [
+    {
+      "id": "aurora-draft-001",
+      "topic": "grounding",
+      "question": "What if focusing on my breath feels uncomfortable?",
+      "proposedResponse": "You can skip breath awareness entirely. If you wish, notice the support of the chair beneath you or name one neutral object in the room.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-002",
+      "topic": "grounding",
+      "question": "Can I ground myself with my eyes open?",
+      "proposedResponse": "Yes. You might simply notice a few colors or shapes nearby while keeping your eyes open and choosing where your attention rests.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-003",
+      "topic": "grounding",
+      "question": "How can I find a simple grounding starting point?",
+      "proposedResponse": "If it feels comfortable, identify one steady surface around you. You may stop or change the activity at any time.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-004",
+      "topic": "reflection",
+      "question": "How can I start journaling without pressure?",
+      "proposedResponse": "Begin with a single sentence about what you notice today, or leave the page blank. There is no required amount to write.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-005",
+      "topic": "rest",
+      "question": "What is a gentle transition into bedtime?",
+      "proposedResponse": "You might dim stimulation, set aside demanding tasks and choose one quiet routine that fits your own circumstances.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-006",
+      "topic": "focus",
+      "question": "How can I take a mindful study break?",
+      "proposedResponse": "Pause your task briefly, relax your gaze if comfortable and choose when to return. Rest breaks need not become additional assignments.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-007",
+      "topic": "nature",
+      "question": "How can I use nature for quiet reflection?",
+      "proposedResponse": "From a safe place, notice a sound, color or movement outdoors or through a window. The goal is curiosity, not a required feeling.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-008",
+      "topic": "meditation",
+      "question": "What if my thoughts wander during meditation?",
+      "proposedResponse": "Wandering thoughts are common. If you choose to continue, you can gently return attention to a comfortable point without judging yourself.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-009",
+      "topic": "affirmation",
+      "question": "How can I choose an affirmation that feels believable?",
+      "proposedResponse": "Try a modest statement such as 'I can choose one manageable next step.' You do not have to repeat words that feel untrue.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-010",
+      "topic": "choice",
+      "question": "Can I stop a wellness practice partway through?",
+      "proposedResponse": "Yes. You may stop, skip, change, shorten or refuse any activity. You remain in charge of whether it helps.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-011",
+      "topic": "rest",
+      "question": "What if I do not feel relaxed after resting?",
+      "proposedResponse": "You do not have to manufacture a feeling of calm. A restful pause can simply be time without an additional demand.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-012",
+      "topic": "reflection",
+      "question": "How do I reflect on a difficult day without retelling everything?",
+      "proposedResponse": "You may name a small detail, identify one need, or choose not to write about the day. Reflection is optional.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-013",
+      "topic": "movement",
+      "question": "How can I begin a gentle stretch?",
+      "proposedResponse": "If movement feels comfortable and appropriate for you, begin slowly within your usual comfortable range. Stop if you feel pain or unwell; ask a qualified professional about restrictions.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-014",
+      "topic": "breathing",
+      "question": "Do I have to follow a fixed breathing count?",
+      "proposedResponse": "No. You can breathe normally and notice your surroundings instead. Do not hold your breath or force a pattern to match a timer.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-015",
+      "topic": "sensory",
+      "question": "What can I do when a room feels overstimulating?",
+      "proposedResponse": "If possible, choose a quieter space, reduce a distracting input or simply pause. You may ask a trusted person for practical support.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-016",
+      "topic": "journaling",
+      "question": "Can I use drawing instead of words for reflection?",
+      "proposedResponse": "Yes. A shape, color or simple sketch can be a gentle way to notice your experience without explaining it in writing.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-017",
+      "topic": "study",
+      "question": "Can a moment of stillness fit into a school day?",
+      "proposedResponse": "If available to you, a short pause between tasks may help you reset your attention. It need not interrupt important responsibilities.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-018",
+      "topic": "privacy",
+      "question": "Should I share medical information with Aurora?",
+      "proposedResponse": "No. Keep private medical history, prescriptions, account information and identifying records out of this public wellness chat.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-019",
+      "topic": "boundaries",
+      "question": "Does Aurora replace a therapist or doctor?",
+      "proposedResponse": "No. Aurora provides general education and optional reflection, not diagnosis, treatment or clinical care.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    },
+    {
+      "id": "aurora-draft-020",
+      "topic": "support",
+      "question": "What if I need help urgently?",
+      "proposedResponse": "Contact local emergency services if you are in immediate danger. In the United States, 988 offers crisis support by call or text. Do not rely on this page for emergency help.",
+      "reviewStatus": "draft-public-candidate",
+      "published": false,
+      "review": {
+        "accuracy": "pending",
+        "clinicalBoundaries": "pending",
+        "ageAppropriateness": "pending",
+        "privacy": "pending",
+        "humanReviewer": null,
+        "approvedAt": null
+      }
+    }
+  ]
+}
