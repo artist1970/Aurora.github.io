@@ -243,6 +243,7 @@ footer{
   html{scroll-behavior:auto}
 }
 </style>
+<link rel="stylesheet" href="styles/aurora-landing-refinement-v1.css">
 </head>
 
 <body>
@@ -255,7 +256,7 @@ footer{
 </header>
 
 <main id="main">
-<section class="hero">
+<section class="hero" id="aurora-introduction">
   <div class="hero-inner">
     <div class="symbol" aria-hidden="true">☾</div>
     <div class="kicker">A quiet place to return to yourself</div>
@@ -265,6 +266,10 @@ footer{
       relaxation, and preparing the mind and body for rest.
     </p>
     <p class="quote">“Gentleness can still be a direction.”</p>
+    <nav class="aurora-hero-links" aria-label="Wellness starting points">
+      <a href="#aurora-chat">Talk with Aurora</a>
+      <a href="#wellness-areas">Explore gentle practices</a>
+    </nav>
   </div>
 </section>
 
@@ -309,7 +314,7 @@ footer{
   </div>
 </section>
 
-<section class="content">
+<section class="content" id="wellness-areas">
   <h2>Things Aurora supports</h2>
   <p class="copy">
     Her public wellness role stays gentle, non-diagnostic, and centered on
@@ -344,14 +349,20 @@ footer{
   </div>
 </section>
 <section class="content" id="aurora-chat" aria-labelledby="aurora-chat-heading">
+  <nav class="aurora-chat-anchor" aria-label="Wellness conversation section">
+    <span>Aurora · Quiet Conversation</span>
+    <a href="#aurora-introduction">Back to introduction ↑</a>
+  </nav>
+  <div class="aurora-chat-content">
   <h2 id="aurora-chat-heading">Talk with Aurora</h2>
   <p class="copy">A quiet, local conversation for grounding, reflection, and rest. General wellness guidance only; no messages are uploaded or saved.</p>
-  <div class="card" style="max-width:800px;margin:20px auto;text-align:left">
+  <div class="card aurora-chat-shell" style="max-width:800px;margin:20px auto;text-align:left">
     <label for="aurora-message" style="display:block;margin-bottom:9px;color:var(--aqua)">What would feel helpful right now?</label>
     <textarea id="aurora-message" rows="3" maxlength="900" style="display:block;width:100%;padding:14px;border:1px solid var(--line-strong);border-radius:9px;background:var(--night);color:var(--ink);font:inherit;resize:vertical" placeholder="A grounding prompt, a quiet reflection, or rest preparation…"></textarea>
     <button id="aurora-ask" type="button" style="margin-top:12px;padding:11px 18px;border:1px solid var(--gold);border-radius:7px;background:var(--panel);color:var(--ink);cursor:pointer">Ask Aurora</button>
     <button id="aurora-clear" type="button" style="margin:12px 0 0 8px;padding:11px 18px;border:1px solid var(--line);border-radius:7px;background:transparent;color:var(--ink);cursor:pointer">Clear</button>
     <div id="aurora-answer" role="status" aria-live="polite" style="margin-top:18px;padding:14px;border:1px solid var(--line);border-radius:7px">Welcome. Choose your own pace. You can stop or skip any suggestion.</div>
+  </div>
   </div>
 </section>
 
@@ -362,12 +373,24 @@ footer{
 </section>
 </main>
 
-<footer>
+<footer class="aurora-footer">
   Aurora · Restorative Wellness · Verve N Veda
+  <nav class="aurora-footer-nav" aria-label="Footer navigation">
+    <a href="#aurora-introduction">Introduction</a>
+    <a href="#aurora-chat">Talk with Aurora</a>
+    <a href="#wellness-areas">Gentle Practices</a>
+    <a href="https://vervenveda.com/">Verve N Veda</a>
+  </nav>
 </footer>
 </div>
+<script src="creative-spark-mentor-qa-v1.js"></script>
 <script src="aurora-conversation-v1.js"></script>
 <script src="mentor-chat-voice-v1.js"></script>
+<script src="https://vervenveda.com/assets/vnv-header-autopopulate.js"></script>
+<script>window.VNV_HEADER?.mount?.({title:"Aurora",subtitle:"Khaemenes Academy · Wellness Mentor",home:"https://vervenveda.com/"});</script>
+<script src="https://vervenveda.com/assets/vnv-ticker-autopopulate.js"></script>
+<script>window.VNV_TICKER?.autoPopulate?.({label:"Aurora · Gentle Practices",max:14});</script>
+<script src="https://vervenveda.com/assets/vnv-333-ticker.js"></script>
 <script src="https://vervenveda.com/assets/vnv-ecosystem-toolbar.js"></script>
 </body>
 </html>
