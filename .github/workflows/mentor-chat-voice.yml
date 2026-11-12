@@ -4,6 +4,12 @@ on:
     paths:
       - 'index.html'
       - 'mentor-chat-voice-v1.js'
+      - 'tests/aurora-five-bubble.test.mjs'
+      - 'styles/aurora-landing-refinement-v1.css'
+      - 'knowledge/drafts/**'
+      - 'knowledge/question-records.v1.json'
+      - 'creative-spark-mentor-qa-v1.js'
+      - 'aurora-conversation-v1.js'
       - 'tests/mentor-chat-voice.test.mjs'
       - '.github/workflows/mentor-chat-voice.yml'
   push:
@@ -11,6 +17,12 @@ on:
     paths:
       - 'index.html'
       - 'mentor-chat-voice-v1.js'
+      - 'tests/aurora-five-bubble.test.mjs'
+      - 'styles/aurora-landing-refinement-v1.css'
+      - 'knowledge/drafts/**'
+      - 'knowledge/question-records.v1.json'
+      - 'creative-spark-mentor-qa-v1.js'
+      - 'aurora-conversation-v1.js'
       - 'tests/mentor-chat-voice.test.mjs'
 permissions:
   contents: read
@@ -22,4 +34,4 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: node --test tests/mentor-chat-voice.test.mjs
+      - run: node --test tests/mentor-chat-voice.test.mjs tests/aurora-five-bubble.test.mjs
